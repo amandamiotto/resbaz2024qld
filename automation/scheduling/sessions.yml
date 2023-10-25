@@ -89,7 +89,7 @@
 -
   id: 44
   title: "Data organisation in spreadsheets for researchers" 
-  description: "Learn:  - good data entry practices and formatting data tables in spreadsheets;  - how to avoid common formatting mistakes;  - approaches for handling dates in spreadsheets;  - basic quality control and data manipulation in spreadsheets."
+  description: "Learn:  - good data entry practices and formatting data tables in spreadsheets  - how to avoid common formatting mistakes  - approaches for handling dates in spreadsheets  - basic quality control and data manipulation in spreadsheets."
   subtype: Workshop
   speakers: [16]
   service: FALSE
@@ -113,7 +113,7 @@
 -
   id: 73
   title: "Storing and querying your research data with a database" 
-  description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
+  description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database search, query, and transform your data and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
   subtype: Workshop
   speakers: [17]
   service: FALSE
@@ -145,7 +145,7 @@
 -
   id: 13
   title: "Helping HASS students answer the question: Do you need the digital in your research?" 
-  description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
+  description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
   subtype: Workshop
   speakers: [12]
   service: FALSE
@@ -319,7 +319,7 @@
   service: FALSE
   hidden: FALSE
 -
-  id: 62
+  id: 96
   title: "Nanopore Sequencing (Adam Ewing)" 
   description: ""
   subtype: Workshop
@@ -364,6 +364,30 @@
   description: "Networking is an important aspect for the career development of PhDs - both to create collaborations and find future job opportunities. However, it is a softskill not thought in university courses. I facilitate guided networking sessions for organisations and think it will benefit PhDs greatly too. The participants will practise 'openness, kindness and honesty' through a series of guided discussions around the following topics:  - using meaningful questions to guide small groups of participants to get to know each other  - facilitate groups to share their challenges and help each other with their challenges - Determine their own values  - Use their values to revisit their challenges  - Reflecting on networking experience and their learnings"
   subtype: Workshop
   speakers: [2]
+  service: FALSE
+  hidden: FALSE
+-
+  id: 62
+  title: "Shiny" 
+  description: ""
+  subtype: Workshop
+  speakers: [48]
+  service: FALSE
+  hidden: FALSE
+-
+  id: 36
+  title: "Mega Hacky Hour" 
+  description: ""
+  subtype: Workshop
+  speakers: []
+  service: FALSE
+  hidden: FALSE
+-
+  id: 66
+  title: "UQRUG Presents Cool But Useless" 
+  description: ""
+  subtype: Workshop
+  speakers: []
   service: FALSE
   hidden: FALSE
 -
@@ -418,31 +442,31 @@
   id: 101
   title: "Registration (in the foyer)" 
   description: ""
-  subtype: ;
-  speakers: [;]
+  subtype: 
+  speakers: []
   service: TRUE
   hidden: TRUE
 -
   id: 102
   title: "Morning tea" 
   description: "Join us in [FOOD ROOM]"
-  subtype: ;
-  speakers: [;]
+  subtype: 
+  speakers: []
   service: TRUE
   hidden: TRUE
 -
   id: 104
   title: "Lunch and stalls" 
   description: ""
-  subtype: ;
-  speakers: [;]
+  subtype: 
+  speakers: []
   service: FALSE
   hidden: FALSE
 -
   id: 201
   title: "Knowledge Bazaar" 
   description: ""
-  subtype: ;
-  speakers: [;]
+  subtype: 
+  speakers: []
   service: FALSE
   hidden: FALSE

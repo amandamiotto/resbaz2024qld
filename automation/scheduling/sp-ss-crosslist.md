@@ -65,7 +65,7 @@
 
   title: "Helping HASS students answer the question: Do you need the digital in your research?" 
 
-  description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
+  description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
 
 - [ ]  Robert    Fleet (he/him) 
 
@@ -111,7 +111,7 @@
 
   title: "Data organisation in spreadsheets for researchers" 
 
-  description: "Learn:  - good data entry practices and formatting data tables in spreadsheets;  - how to avoid common formatting mistakes;  - approaches for handling dates in spreadsheets;  - basic quality control and data manipulation in spreadsheets."
+  description: "Learn:  - good data entry practices and formatting data tables in spreadsheets  - how to avoid common formatting mistakes  - approaches for handling dates in spreadsheets  - basic quality control and data manipulation in spreadsheets."
 --
 
   Slot Time: 22 Nov (Wed) 11:00am-12:30am, stream 4
@@ -133,7 +133,7 @@
 
   title: "Storing and querying your research data with a database" 
 
-  description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
+  description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database search, query, and transform your data and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
 
 - [ ]  Eliza    Howard (she/her) 
 
@@ -143,7 +143,7 @@
 
   description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
 
-- [ ]  Sonia    Ramza 
+- [x]  Sonia    Ramza 
 
   Slot Time: 21 Nov (Tues) 9:00am-10:30am, stream 6
 
@@ -151,7 +151,7 @@
 
   description: "Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits: Virtual Desktop Service  National GPU/large memory service  BinderHub  JupyterHub Service Nectar Cloud Dashboard "
 
-- [ ]  Rani    McLennan 
+- [x]  Rani    McLennan 
 
   Slot Time: 23 Nov (Thu) 9:00am-10:30am, stream 5
 
@@ -333,7 +333,7 @@
 
 - [ ]  Adam    Ewing 
 
-  Slot Time: 22 Nov (Wed) 3:00pm-5:00pm, stream 2
+  Slot Time: 23 Nov (Thu) 3:00pm-5:00pm, stream 6
 
   title: "Nanopore Sequencing (Adam Ewing)" 
 
@@ -487,4 +487,10 @@
   description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.  This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to:   - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)  - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences  - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species  - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
 
 - [ ]  Kasia    Koziara 
+
+  Slot Time: 22 Nov (Wed) 3:00pm-5:00pm, stream 2
+
+  title: "Shiny" 
+
+  description: ""
 
