@@ -1,12 +1,12 @@
 -
   group: "National ResBaz Sponsors"
   elements:
-    - {name: "Gale", description: "Gale", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
-    - {name: "ARDC", description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    #- {name: "Gale", description: "Gale", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
+    #- {name: "ARDC", description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "Sage", description: "SAGE", link: "https://learningresources.sagepub.com/home", imageUrl: "../img/organizers/sage2023.png"}
+    #- {name: "Sage", description: "SAGE", link: "https://learningresources.sagepub.com/home", imageUrl: "../img/organizers/sage2023.png"}
 -
   group: "Silver Sponsors"
   elements: 
@@ -15,12 +15,12 @@
 -
   group: "Main organisers"
   elements: 
-     - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
-     - {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/UQlogo-Purple-rgb.png"}
+     #- {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
+     #- {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/UQlogo-Purple-rgb.png"}
 - 
   group: "Co-organisers"
   elements: 
-    - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-    - {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
-    - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+    #- {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+    #- {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
+    #- {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
 -
