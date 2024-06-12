@@ -63,7 +63,7 @@ navigationLinks:
 # Hero Block
 heroImage: "160273_02_OCTOBER_2018_JACKHARLEM-944_v02.jpg"
 heroTitle: "Research Bazaar Queensland"
-eventDate: "6-7th Nov 2024"
+eventDate: "6-7th Nov 2024 - ACU Brisbane"
 
 
 
@@ -75,7 +75,7 @@ aboutText: "<p>ResBaz is more than a conference - it's a three day festival of d
 <p>ResBazQld is now in its eighth year, preparing for 2024!
 Last year was hosted by The University of Queensland, with partner events held at university campuses around Australia and across the world. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>."
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>."
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -96,19 +96,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: ""
-eventLocationLink: "https://goo.gl/maps/wRM7Hw6LGUnkebkcA"
-eventStreetAddress: ""
-eventAddressLocality: ""
+eventLocationName: "Australian Catholic University - Brisbane Campus"
+eventLocationLink: "https://maps.app.goo.gl/Fiqo9BC67jhfytJe6"
+eventStreetAddress: "Brisbane Campus (McAuley) 1100 Nudgee Road"
+eventAddressLocality: "Banyo"
 eventAddressLocalityRegion: " Brisbane"
-eventPostalCode: ""
+eventPostalCode: "4014"
 eventAddressCountry: "Australia"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: ""
-mapCenterCoordinates: ""
-mapMobileCenterCoordinates: ""
+eventPlaceCoordinates: "-27.377184810381276, 153.08899634603867"
+mapCenterCoordinates: "-27.377184810381276, 153.08899634603867"
+mapMobileCenterCoordinates: "-27.377184810381276, 153.08899634603867"
 #
 # Venue Block
 # venueBlockTitle: "Past Events"
