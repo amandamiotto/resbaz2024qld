@@ -48,7 +48,7 @@ navigationLinks:
 # - {link: "https://events.humanitix.com/resbazqld-2023", text: "Register"}
  #- {permalink: "/news/", text: "News"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
- - {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
+# - {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/sessions/", text: "Sessions"}
