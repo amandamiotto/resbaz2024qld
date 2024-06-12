@@ -187,9 +187,9 @@ socialLinks:
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
 footerBlocks:
  -
-  #title: "Links"
+  #title: "Logo Customisation"
   #links:
-   #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
+   #- {link: "https://www.flickr.com/photos/bystandr/", text: "Logo customisations by the amazing Alex Gloria"}
  -
 #  title: "National ResBaz Sponsors"
 #  links:
