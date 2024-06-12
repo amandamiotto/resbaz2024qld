@@ -52,8 +52,8 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/sessions/", text: "Sessions"}
  #- {permalink: "/transport/", text: "Getting here"}
- - {permalink: "/partners/", text: "Partners & Sponsors"}
-# - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
+ #- {permalink: "/partners/", text: "Partners & Sponsors"}
+ - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
    # bottomNavigationLinks:
   # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
@@ -182,7 +182,7 @@ twitterFeed: "https://twitter.com/ResBazQld"
 socialLinks:
  - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
  - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
- - {link: "https://www.linkedin.com/events/resbazqld7107577402066694145/comments/", icon: "linkedin"}
+# - {link: "https://www.linkedin.com/events/resbazqld7107577402066694145/comments/", icon: "linkedin"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
 footerBlocks:
