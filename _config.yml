@@ -189,8 +189,8 @@ socialLinks:
 footerBlocks:
  -
   #title: "Logo Customisation"
-  #links:
-   #- {link: "https://www.flickr.com/photos/bystandr/", text: "Logo customisations by the amazing Alex Gloria"}
+  links:
+   - {link: "https://www.linkedin.com/in/alexandra-gloria-9b703814a/", text: "Logo customisations by Alex Gloria"}
  -
 #  title: "National ResBaz Sponsors"
 #  links:
