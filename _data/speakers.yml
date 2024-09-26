@@ -54,7 +54,7 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social:
-  -
+-
   id: 105
   name: 
   surname: 
@@ -117,7 +117,8 @@
   pronouns: She/Her
   company: QUT
   title: Research Fellow
-  bio: Karen Cavu is a certified career coach with 15 years experience in higher education, specializing in career development support for emerging and early career researchers. With a background in HR consulting, recruitment, training and business development for over a decade, Karen understands how to navigate the recruitment landscape and translate research skills into job-ready jargon. Karen is currently the HDR Career Educator at QUT and sessional academic for QUT's postgraduate career counselling units.  thumbnailUrl: 
+  bio: Karen Cavu is a certified career coach with 15 years experience in higher education, specializing in career development support for emerging and early career researchers. With a background in HR consulting, recruitment, training and business development for over a decade, Karen understands how to navigate the recruitment landscape and translate research skills into job-ready jargon. Karen is currently the HDR Career Educator at QUT and sessional academic for QUT's postgraduate career counselling units.  
+  thumbnailUrl: 
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
