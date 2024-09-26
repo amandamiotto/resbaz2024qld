@@ -32,13 +32,52 @@
   hidden: true
   description: null
 -
-  title: 
+  title: Key Note 1
+  themes: []
+  id: 101
+  speakers:
+  subtype: talk
+  hidden: false
+  description: null
+-
+  title: Key Note 2
+  themes: []
+  id: 102
+  speakers:
+  subtype: talk
+  hidden: false
+  description: null
+-
+  title: Key Note 3
+  themes: []
+  id: 103
+  speakers:
+  subtype: talk
+  hidden: false
+  description: null
+-
+  title: Key Note 4
   themes: []
   id: 104
   speakers:
-  subtype:
-  service:
-  hidden: true
+  subtype: talk
+  hidden: false
+  description: null
+-
+  title: Key Note 5
+  themes: []
+  id: 105
+  speakers:
+  subtype: talk
+  hidden: false
+  description: null
+-
+  title: Key Note 6
+  themes: []
+  id: 106
+  speakers:
+  subtype: talk
+  hidden: false
   description: null
 -
   title: 
