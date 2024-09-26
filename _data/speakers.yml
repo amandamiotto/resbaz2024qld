@@ -131,7 +131,8 @@
   pronouns: She/Her
   company: QCIF
   title: Senior Data Scientist 
-  bio: Jenna is a Conservation Scientist with expertise in ecological modelling, species distribution, and biodiversity data analysis to support policy and conservation efforts. As the Senior Data Scientist at QCIF for EcoCommons, she oversees the development of the collaborative platform that enables researchers to build, share, and apply advanced ecological models.    rockstar: false
+  bio: Jenna is a Conservation Scientist with expertise in ecological modelling, species distribution, and biodiversity data analysis to support policy and conservation efforts. As the Senior Data Scientist at QCIF for EcoCommons, she oversees the development of the collaborative platform that enables researchers to build, share, and apply advanced ecological models.
+  rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
