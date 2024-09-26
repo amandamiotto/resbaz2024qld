@@ -1,39 +1,38 @@
 -
-  title: 
+  title: Registration
   themes: []
-  id: 2
-  speakers: []
-  hidden: true
+  id: 001
+  speakers: 
+  hidden: false
   description: null  
 -
-  title:
+  title: Morning tea
   themes: []
-  id: 100000 
-  speakers: []
-  subtype: ""
-  service: ""
-  hidden: true
+  id: 002 
+  speakers: 
+  service: true
+  hidden: false
   description: null
 -
   title: Afternoon tea
   themes: []
-  id: 105
+  id: 003
   speakers:
   subtype:
   service: true
-  hidden: true
+  hidden: false
   description: null
 -
-  title: Knowledge bazaar
+  title: Lunch and Stalls
   themes: []
-  id: 201
+  id: 004
   speakers:
   subtype:
   service:
-  hidden: true
+  hidden: false
   description: null
 -
-  title: Lunch and stalls
+  title: 
   themes: []
   id: 104
   speakers:
@@ -42,7 +41,7 @@
   hidden: true
   description: null
 -
-  title: Mega Hacky Hour
+  title: 
   themes: []
   id: 0
   speakers: []
@@ -51,7 +50,7 @@
   hidden: false
   description: null
 -
-  title: Morning tea
+  title: 
   themes: []
   id: 102
   speakers:
