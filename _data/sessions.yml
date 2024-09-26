@@ -196,4 +196,21 @@
   service:
   hidden: false
   description: The researchers face lot of trouble in writing their ideas. I would like to share my learnings and tips on how to properly and systematically write, how to structure the ideas, common mistakes and how to avoid them. This workshop will focus on writing skills without using any AI tools because at the end, academic writing has to be original and human created. 
- 
+-
+  title: Statistical Comparisons in R
+  themes: []
+  id: 2014
+  speakers: []
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
+-
+  title: Introduction to programming: Plotting and Programming with Python
+  themes: []
+  id: 2014
+  speakers: []
+  subtype: Workshop
+  service:
+  hidden: false
+  description: Participants will learn about basic programming concepts including simple and complex data types, conditionals and looping that are applicable to Python and other languages. This workshop will prepare participants to carry out batch analysis and equip them with the knowledge to start creating automated pipelines to increase data processing power and productivity.
