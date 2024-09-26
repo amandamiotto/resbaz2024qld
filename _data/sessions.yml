@@ -240,3 +240,12 @@
   hidden: false
   description:
 -
+  title: REDCap workshop
+  themes: []
+  id: 2017
+  speakers: [212]
+  subtype: Workshop
+  service:
+  hidden: false
+  description:
+-
