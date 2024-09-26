@@ -169,7 +169,7 @@
   service:
   hidden: false
   description: Discussion, demonstration, and implementation of RAG (Retrieval Augmented Generation) as an approach for exploring large and complex data sources
- -
+-
   title: Collaborative User Groups- Could you start one? Come join ours! 
   themes: []
   id: 2011
@@ -214,3 +214,4 @@
   service:
   hidden: false
   description: Participants will learn about basic programming concepts including simple and complex data types, conditionals and looping that are applicable to Python and other languages. This workshop will prepare participants to carry out batch analysis and equip them with the knowledge to start creating automated pipelines to increase data processing power and productivity.
+-
