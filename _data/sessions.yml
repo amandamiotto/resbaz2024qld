@@ -68,7 +68,7 @@
   themes: []
   id: 105
   speakers:
-  subtype: talk
+  subtype: talke
   hidden: false
   description: null
 -
@@ -80,21 +80,14 @@
   hidden: false
   description: null
 -
-  title: 
+  title: Introduction to data cleaning with OpenRefine
   themes: []
-  id: 0
+  id: 201
   speakers: []
   subtype: Workshop
   service:
   hidden: false
-  description: null
--
-  title: 
-  themes: []
-  id: 102
-  speakers:
-  subtype:
-  service: true
-  hidden: true
-  description: null
+  description: Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. <br> You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on.  
+
+
 
