@@ -222,3 +222,12 @@
   hidden: false
   description: Participants will learn about basic programming concepts including simple and complex data types, conditionals and looping that are applicable to Python and other languages. This workshop will prepare participants to carry out batch analysis and equip them with the knowledge to start creating automated pipelines to increase data processing power and productivity.
 -
+  title: How to fix slow code
+  themes: []
+  id: 2016
+  speakers: [211]
+  subtype: Workshop
+  service:
+  hidden: false
+  description:
+-
