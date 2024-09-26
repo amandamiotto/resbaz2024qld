@@ -1,6 +1,6 @@
 - 
-  date: "2023-11-21"
-  dateReadable: "Tuesday 21st Nov 2023"
+  date: "2024-11-06"
+  dateReadable: "6th Nov 2024"
   tracks: 
     - {title: "210", color: "#2E8B57"}
     - {title: "211", color: "#e91e63"}
@@ -46,8 +46,8 @@
        sessionIds: []
     }
 -
-  date: "2023-11-22"
-  dateReadable: "Wed 22nd Nov 2023"
+  date: "2024-11-07"
+  dateReadable: "7th Nov 2024"
   tracks: 
     - {title: "210", color: "#2E8B57"}
     - {title: "211", color: "#e91e63"}
@@ -104,58 +104,6 @@
     - {
       startTime: "17:30",
       endTime: "19:30",
-      sessionIds: []
-    }
--
-  date: "2023-11-23"
-  dateReadable: "Thursday 23rd November 2023"
-  tracks: 
-    - {title: "210", color: "#2E8B57"}
-    - {title: "211", color: "#e91e63"}
-    - {title: "216", color: "#48D1CC"}
-    - {title: "218", color: "#FF00FF"}
-    - {title: "220", color: "#FF8C00"}
-    - {title: "222", color: "#48D1CC"}
-  timeslots:
-    - {
-      startTime: "08:00",
-      endTime: "09:00",
-      sessionIds: []
-    }
-    - {
-      startTime: "09:00",
-      endTime: "10:30",
-      sessionIds: []
-    }
-    - {
-      startTime: "10:30",
-      endTime: "11:00",
-      sessionIds: []
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:30",
-      sessionIds: []
-    }
-    - {
-      startTime: "12:30",
-      endTime: "13:30",
-      sessionIds: []
-    }
-    - {
-      startTime: "13:30",
-      endTime: "14:00",
-      sessionIds: []
-    }
-    - {
-      startTime: "14:00",
-      endTime: "14:30",
-      sessionIds: []
-    }
-    - {startTime: "14:30", endTime: "15:00", sessionIds: []}
-    - {
-      startTime: "15:00",
-      endTime: "17:00",
       sessionIds: []
     }
 
