@@ -161,7 +161,7 @@
   hidden: false
   description: This workshop aims to demonstrate how a small open LLM can be run locally to automate small, simple tasks locally without the need to use of commercial models. This is a very recent development in the AI space and therefore might be considered an advanced topic for many users. The workshop will assume some intermediate level of coding and will be based in notebooks for ease of hardware specs. The workshop will cover the basic set up and a discussion of the types of models that will work and where to acquire them. Then a simple workflow will be described. Attendees may bring their own data and the notebooks can be provided as long as the attendee can confidently use them on their hardware and coding environment.
 -
-  title: Ethics Advisor: AI & RAG for discussion & advice based on ethics guides
+  title: Ethics Advisor- AI & RAG for discussion & advice based on ethics guides
   themes: []
   id: 2010
   speakers: [207]
@@ -170,7 +170,7 @@
   hidden: false
   description: Discussion, demonstration, and implementation of RAG (Retrieval Augmented Generation) as an approach for exploring large and complex data sources
  -
-  title: Collaborative User Groups: Could you start one? Come join ours! 
+  title: Collaborative User Groups- Could you start one? Come join ours! 
   themes: []
   id: 2011
   speakers: [208]
