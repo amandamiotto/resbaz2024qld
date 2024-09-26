@@ -177,7 +177,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer: From Journeyman to Master
+  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer- From Journeyman to Master
 -
   title: Using various software for PhD research
   themes: []
