@@ -3,7 +3,7 @@
   themes: []
   id: 001
   speakers: 
-  hidden: false
+  hidden: true
   description: null  
 -
   title: Morning tea
@@ -11,7 +11,7 @@
   id: 002 
   speakers: 
   service: true
-  hidden: false
+  hidden: true
   description: null
 -
   title: Afternoon tea
@@ -20,7 +20,7 @@
   speakers:
   subtype:
   service: true
-  hidden: false
+  hidden: true
   description: null
 -
   title: Lunch and Stalls
@@ -29,7 +29,7 @@
   speakers:
   subtype:
   service:
-  hidden: false
+  hidden: true
   description: null
 -
   title: 
@@ -58,12 +58,4 @@
   service: true
   hidden: true
   description: null
--
-  title: Registration (in the foyer)
-  themes: []
-  id: 101
-  speakers:
-  subtype:
-  service: true
-  hidden: true
-  description: null
+
