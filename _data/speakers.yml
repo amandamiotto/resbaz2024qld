@@ -90,7 +90,7 @@
   company: Griffith University
   title: Research Library Specialist
   bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor, a strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
-  thumbnailUrl: 
+  thumbnailUrl: SharronStapleton.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -104,7 +104,7 @@
   company: UQ
   title: Research Fellow
   bio: Dr. Sam Hames is a research fellow in computational humanities with UQ's School of Languages and Cultures and also works on the Language Data Commons of Australia and the Australian Text Analytics Platform. Sam's PhD was on machine learning for medical imaging analysis, and he has an extensive background as a data-focused software developer supporting social media and web researchers. His primary research focus is to understand how computation can enable qualitative and interpretive inquiry across the humanities and social sciences. 
-  thumbnailUrl: 
+  thumbnailUrl: SamHames.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -118,7 +118,7 @@
   company: QUT
   title: Research Fellow
   bio: Karen Cavu is a certified career coach with 15 years experience in higher education, specializing in career development support for emerging and early career researchers. With a background in HR consulting, recruitment, training and business development for over a decade, Karen understands how to navigate the recruitment landscape and translate research skills into job-ready jargon. Karen is currently the HDR Career Educator at QUT and sessional academic for QUT's postgraduate career counselling units.  
-  thumbnailUrl: 
+  thumbnailUrl: karen-cavu.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -160,7 +160,7 @@
   company: QUT Digital Observatory
   title: Senior Data Scientist
   bio: Robert Fleet is a senior data scientist at the QUT Digital Observatory, where he spearheads the development of innovative research software and cutting-edge methodologies for digital and computational research. With a keen focus on advancing the field, Robert is currently immersed in creating Large Language Model (LLM) pipelines for data analysis and exploring topic models that evolve over time.
-  thumbnailUrl: 
+  thumbnailUrl: robert_fleet.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
