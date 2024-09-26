@@ -250,3 +250,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social:
+-
+  id: 213
+  name: Awais Hameed
+  surname: Khan
+  pronouns: 
+  company: UQ
+  title: 
+  bio: I am a designer / technology researcher / illustrator / (reluctant) academic / (recovering) marketer — with over a decade of experience working across emerging technologies, telecommunications, consumer goods, and design consulting sectors. I am interested in the human and social aspects of designing technology, in collaboration with users. I enjoy working on human-computer interaction projects, developing participatory design tools and methods, design fictions, and using speculative approaches in my work.
+  thumbnailUrl: Awais_Hameed_Khan.jpeg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
