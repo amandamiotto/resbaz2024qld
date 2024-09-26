@@ -82,12 +82,118 @@
 -
   title: Introduction to data cleaning with OpenRefine
   themes: []
-  id: 201
-  speakers: []
+  id: 2001
+  speakers: [201]
   subtype: Workshop
   service:
   hidden: false
   description: Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. <br> You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on.  
-
-
-
+-
+  title: Introduction to Text Analytics with R
+  themes: []
+  id: 2002
+  speakers: [202]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This workshop will provide an introduction to text analytics with R. We'll start from scratch and introduce standard concepts in working with text as data then work through practical examples of key techniques.
+-
+  title: Personal Branding for Researchers (and the branding-averse)
+  themes: []
+  id: 2003
+  speakers: [203]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: Craft a compelling personal brand as a research, content and technical expert in your field that doesn't leave you feeling like a snake-oil salesman. Investigate the why, how, where and when of branding opportunities, and get comfortable with the uncomfortable reality that you are the brand manager of your own career. The perfect workshop for any introverted, socially-awkward, branding-averse researcher who needs tips on how to successfully promote their career without selling their soul.
+-
+  title: ChattieG Cheats to Optimize your Research Resume
+  themes: []
+  id: 2004
+  speakers: [203]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: Leverage your favourite AI platform to: review job advertisements efficiently; assess your skills against a vacancy; unpack unknown assumptions about your skills; and translate your skills into job-ready jargon. This workshop is ideal if you struggle to define, evidence, or translate your academic research into industry terminology, or if you're exhausted by the prospect of relentlessly re-writing job applications. Learn the best cheats with ChattieG!
+-
+  title: Using the EcoCommons platform to run species distribution models  
+  themes: []
+  id: 2005
+  speakers: [204]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: EcoCommons Australia offers a comprehensive suite of resources for ecological modelling. This includes a user-friendly platform with thousands of trusted datasets and a range of expert-developed species distribution and community modelling workflows. This workshop will begin with a brief introduction to species distribution models (SDMs), followed by a guided tour of the EcoCommons platform. Attendees will learn how to run effective SDMs, select fit-for-purpose data, and produce accurate and meaningful results in a point-and-click environment. 
+-
+  title: A New Tool for Managing Access to Sensitive Research Data  
+  themes: []
+  id: 2006
+  speakers: [205]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: By attending this workshop, you will learn: <br></ul>About facilitating access to sensitive data at the Australian Data Archive<br></ul>How to use the CADRE (Coordinated Access for Data, Research & Environments) platform   <br></ul>Key considerations for developing your own data sharing arrangements
+-
+  title: Qualitative Data Analysis using Large Language Models  
+  themes: []
+  id: 2007
+  speakers: [206]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: The workshop will cover the use of LLM to process data qualitatively as well as perform extractive reasoning on the data. LLM Summarisation of data and outputs is also discussed. The objective of the workshop is to demonstrate the usefulness of LLM to accelerate research outputs and discovery when working with research data. We will discuss the benefits and limitations as well as the considerations that need to be made with data and data processing. There will be a practical demonstration of the processing of some data drawn from various sources such as Reddit, YouTube and NewsTalk. 
+-
+  title: Demystifying AI for Research  
+  themes: []
+  id: 2008
+  speakers: [206]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This workshop aims to raise awareness of the potential for AI to accelerate and enhance research outputs for the current research milieu. AI is now a fact of life for research and is being increasingly used by students at both undergraduate and post graduate level. This workshop  will cover the newest developments in AI and introduce what AI means for research and how researchers can be prepared for it. The workshop will also cover what researchers need to ask for from research infrastructure at their institution. We will try to present a balanced view of both sides of the arguments for and against the use of AI in research. The format will be informal and will encourage discussion.
+-
+  title: Running a Large Language Model locally - Can it be done? 
+  themes: []
+  id: 2009
+  speakers: [206]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This workshop aims to demonstrate how a small open LLM can be run locally to automate small, simple tasks locally without the need to use of commercial models. This is a very recent development in the AI space and therefore might be considered an advanced topic for many users. The workshop will assume some intermediate level of coding and will be based in notebooks for ease of hardware specs. The workshop will cover the basic set up and a discussion of the types of models that will work and where to acquire them. Then a simple workflow will be described. Attendees may bring their own data and the notebooks can be provided as long as the attendee can confidently use them on their hardware and coding environment.
+-
+  title: Ethics Advisor: AI & RAG for discussion & advice based on ethics guides
+  themes: []
+  id: 2010
+  speakers: [207]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: Discussion, demonstration, and implementation of RAG (Retrieval Augmented Generation) as an approach for exploring large and complex data sources
+ -
+  title: Collaborative User Groups: Could you start one? Come join ours! 
+  themes: []
+  id: 2011
+  speakers: [208]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer: From Journeyman to Master
+-
+  title: Using various software for PhD research
+  themes: []
+  id: 2012
+  speakers: [209]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This presentation will explore the PhD student’s use of tools to prepare for her confirmation (Obsidian) and to analyse textual data (Leximancer), which led to the publication of an article. Participants will gain valuable insights into the use of these tools and how they facilitated a successful research collaboration with her research supervisor and other academics outside the university.
+-
+  title: Academic Writing Tips and Skills (without AI)
+  themes: []
+  id: 2013
+  speakers: [210]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: The researchers face lot of trouble in writing their ideas. I would like to share my learnings and tips on how to properly and systematically write, how to structure the ideas, common mistakes and how to avoid them. This workshop will focus on writing skills without using any AI tools because at the end, academic writing has to be original and human created. 
+ 
