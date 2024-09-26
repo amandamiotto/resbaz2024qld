@@ -222,3 +222,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social:
+-
+  id: 211
+  name: Emily
+  surname: Kahl
+  pronouns: She/Her
+  company: Pawsey Supercomputing Center
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
