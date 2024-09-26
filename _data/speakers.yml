@@ -1,5 +1,5 @@
 -
-  id: 3
+  id: 101
   name: 
   surname: 
   pronouns:
@@ -8,6 +8,129 @@
   bio: 
   thumbnailUrl: 
   rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 102
+  name: 
+  surname: 
+  pronouns:
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 103
+  name: 
+  surname: 
+  pronouns:
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 104
+  name: 
+  surname: 
+  pronouns:
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+  -
+  id: 105
+  name: 
+  surname: 
+  pronouns:
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 106
+  name: 
+  surname: 
+  pronouns:
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 201
+  name: Sharron
+  surname: Stapleton
+  pronouns: She/Her
+  company: Griffith University
+  title: Research Library Specialist
+  bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor, a strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 202
+  name: Dr Sam
+  surname: Hames
+  pronouns: He/Him
+  company: UQ
+  title: Research Fellow
+  bio: Dr. Sam Hames is a research fellow in computational humanities with UQ's School of Languages and Cultures and also works on the Language Data Commons of Australia and the Australian Text Analytics Platform. Sam's PhD was on machine learning for medical imaging analysis, and he has an extensive background as a data-focused software developer supporting social media and web researchers. His primary research focus is to understand how computation can enable qualitative and interpretive inquiry across the humanities and social sciences. 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 203
+  name: Karen
+  surname: Cavu
+  pronouns: She/Her
+  company: QUT
+  title: Research Fellow
+  bio: Karen Cavu is a certified career coach with 15 years experience in higher education, specializing in career development support for emerging and early career researchers. With a background in HR consulting, recruitment, training and business development for over a decade, Karen understands how to navigate the recruitment landscape and translate research skills into job-ready jargon. Karen is currently the HDR Career Educator at QUT and sessional academic for QUT's postgraduate career counselling units.  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social:
+-
+  id: 204
+  name: Dr Jenna
+  surname: Wraith
+  pronouns: She/Her
+  company: QCIF
+  title: Senior Data Scientist 
+  bio: Jenna is a Conservation Scientist with expertise in ecological modelling, species distribution, and biodiversity data analysis to support policy and conservation efforts. As the Senior Data Scientist at QCIF for EcoCommons, she oversees the development of the collaborative platform that enables researchers to build, share, and apply advanced ecological models.    rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
