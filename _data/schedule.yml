@@ -2,12 +2,17 @@
   date: "2024-11-06"
   dateReadable: "6th Nov 2024"
   tracks: 
-    - {title: "210", color: "#2E8B57"}
-    - {title: "211", color: "#e91e63"}
-    - {title: "216", color: "#48D1CC"}
-    - {title: "218", color: "#FF00FF"}
-    - {title: "220", color: "#FF8C00"}
-    - {title: "222", color: "#48D1CC"}
+    - {title: "Joan Hendrick Lecture Theatre - Building 220 Level 1", color: "#2E8B57"}
+    - {title: "Lecture Theatre - Building 220 Level 1 Room 09", color: "#e91e63"}
+    - {title: "Computer Lab - Building 220 Level 1 Room 10", color: "#FF8C00"}
+    - {title: "Learning space - Building 220 Level 1 Room 11", color: "#48D1CC"}
+    - {title: "Computer Lab - Building 220 Level 1 Room 12", color: "#FF00FF"}
+    - {title: "Learning space - Building 220 Level 1 Room 13", color: "#48D1CC"}
+    - {title: "Learning space - Building 216 Level 1 Room 16", color: "#2E8B57"}
+    - {title: "Moot Court - Building 216 Level 1 Room 17", color: "#e91e63"}
+    - {title: "Learning space - Building 216 Level 1 Room 18", color: "#FF8C00"}
+    - {title: "Learning space - Building 216 Level 2 Room 18", color: "#48D1CC"}
+    - {title: "Learning space - Building 216 Level 2 Room 19", color: "#FF00FF"}
   timeslots:
     - {startTime: "08:00", endTime: "09:00", sessionIds: []}
     - {
@@ -40,21 +45,31 @@
       endTime: "14:30",
       sessionIds: []
     }
-    - {startTime: "14:30", endTime: "15:00", sessionIds: []}
-    - {startTime: "15:00",
-       endTime: "17:00",
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: []
+    }
+    - {startTime: "15:00", endTime: "15:30", sessionIds: []}
+    - {startTime: "15:30",
+       endTime: "17:30",
        sessionIds: []
     }
 -
   date: "2024-11-07"
   dateReadable: "7th Nov 2024"
   tracks: 
-    - {title: "210", color: "#2E8B57"}
-    - {title: "211", color: "#e91e63"}
-    - {title: "216", color: "#48D1CC"}
-    - {title: "218", color: "#FF00FF"}
-    - {title: "220", color: "#FF8C00"}
-    - {title: "222", color: "#48D1CC"}
+    - {title: "Joan Hendrick Lecture Theatre - Building 220 Level 1", color: "#2E8B57"}
+    - {title: "Lecture Theatre - Building 220 Level 1 Room 09", color: "#e91e63"}
+    - {title: "Computer Lab - Building 220 Level 1 Room 10", color: "#FF8C00"}
+    - {title: "Learning space - Building 220 Level 1 Room 11", color: "#48D1CC"}
+    - {title: "Computer Lab - Building 220 Level 1 Room 12", color: "#FF00FF"}
+    - {title: "Learning space - Building 220 Level 1 Room 13", color: "#48D1CC"}
+    - {title: "Learning space - Building 216 Level 1 Room 16", color: "#2E8B57"}
+    - {title: "Moot Court - Building 216 Level 1 Room 17", color: "#e91e63"}
+    - {title: "Learning space - Building 216 Level 1 Room 18", color: "#FF8C00"}
+    - {title: "Learning space - Building 216 Level 2 Room 18", color: "#48D1CC"}
+    - {title: "Learning space - Building 216 Level 2 Room 19", color: "#FF00FF"}
   timeslots:
     - {
       startTime: "08:00",
@@ -92,18 +107,13 @@
       sessionIds: []
     }
     - {
-      startTime: "14:30", 
-      endTime: "15:00", 
+      startTime: "14:30",
+      endTime: "15:00",
       sessionIds: []
     }
-    - {
-      startTime: "15:00",
-      endTime: "17:00",
-      sessionIds: []
-    }
-    - {
-      startTime: "17:30",
-      endTime: "19:30",
-      sessionIds: []
+    - {startTime: "15:00", endTime: "15:30", sessionIds: []}
+    - {startTime: "15:30",
+       endTime: "17:30",
+       sessionIds: []
     }
 
