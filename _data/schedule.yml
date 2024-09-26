@@ -10,9 +10,6 @@
     - {title: "Learning space - Building 220 Level 1 Room 13", color: "#48D1CC"}
     - {title: "Learning space - Building 216 Level 1 Room 16", color: "#2E8B57"}
     - {title: "Moot Court - Building 216 Level 1 Room 17", color: "#e91e63"}
-    - {title: "Learning space - Building 216 Level 1 Room 18", color: "#FF8C00"}
-    - {title: "Learning space - Building 216 Level 2 Room 18", color: "#48D1CC"}
-    - {title: "Learning space - Building 216 Level 2 Room 19", color: "#FF00FF"}
   timeslots:
     - {startTime: "08:00", endTime: "09:00", sessionIds: [001]}
     - {
@@ -68,9 +65,6 @@
     - {title: "Learning space - Building 220 Level 1 Room 13", color: "#48D1CC"}
     - {title: "Learning space - Building 216 Level 1 Room 16", color: "#2E8B57"}
     - {title: "Moot Court - Building 216 Level 1 Room 17", color: "#e91e63"}
-    - {title: "Learning space - Building 216 Level 1 Room 18", color: "#FF8C00"}
-    - {title: "Learning space - Building 216 Level 2 Room 18", color: "#48D1CC"}
-    - {title: "Learning space - Building 216 Level 2 Room 19", color: "#FF00FF"}
   timeslots:
     - {
       startTime: "08:00",
