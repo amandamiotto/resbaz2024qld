@@ -181,9 +181,9 @@ twitterFeed: "https://twitter.com/ResBazQld"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
+# - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
  - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
-# - {link: "https://www.linkedin.com/events/resbazqld7107577402066694145/comments/", icon: "linkedin"}
+ - {link: "https://www.linkedin.com/showcase/resbaz-qld", icon: "linkedin"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
 footerBlocks:
@@ -207,11 +207,13 @@ footerBlocks:
 # -  
 #  title: "Collaborating Institutes"
 #  links:
-#   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-#   - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-#   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
-#   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-#   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
+   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
+   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
+   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   #- {text: "UniSQ", description: "UniSQ", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/unisq-logo.svg"}
  -  
   title: "Contacts"
   links:
