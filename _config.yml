@@ -209,7 +209,7 @@ footerBlocks:
    - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
    - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
    - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
+   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "../img/organizers/GU.gif"}
    - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
    - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
  -  
