@@ -15,12 +15,13 @@
 -
   group: "Main organisers"
   elements: 
-     #- {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
-     #- {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/UQlogo-Purple-rgb.png"}
-- 
+   - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
+   - {name: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}- 
   group: "Co-organisers"
   elements: 
-    #- {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-    #- {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
-    #- {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {name: "QCIF", description: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
+   - {name: "Griffith University", description: "Griffith University", link: "griffith.edu.au",  imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
+   - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+   - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
 -
