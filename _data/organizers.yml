@@ -22,7 +22,7 @@
   elements: 
    - {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
    - {name: "QCIF", description: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-   - {name: "Griffith University", description: "Griffith University", link: "griffith.edu.au",  imageUrl: "GU.gif"}
+   - {name: "Griffith University", description: "Griffith University", link: "griffith.edu.au",  imageUrl: "../img/organizers/GU.gif"}
    - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
    - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
 -
