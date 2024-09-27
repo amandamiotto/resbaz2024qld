@@ -45,15 +45,14 @@ c4sponsorsUrl: "https://www.qcif.edu.au"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/registration/", text: "Register"}
-# - {link: "https://events.humanitix.com/resbazqld-2023", text: "Register"}
  #- {permalink: "/news/", text: "News"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
-# - {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
+ - {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
- #- {permalink: "/partners/", text: "Partners & Sponsors"}
+ - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
    # bottomNavigationLinks:
@@ -205,15 +204,14 @@ footerBlocks:
 #  links:
 #   #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
 # -  
-#  title: "Collaborating Institutes"
-#  links:
+  title: "Collaborating Institutes"
+  links:
    - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
    - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
    - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
    - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
    - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
    - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
-   #- {text: "UniSQ", description: "UniSQ", link: "https://www.usq.edu.au/", imageUrl: "../img/organizers/unisq-logo.svg"}
  -  
   title: "Contacts"
   links:
