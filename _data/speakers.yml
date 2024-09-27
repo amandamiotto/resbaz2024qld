@@ -264,3 +264,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social:
+-
+  id: 214
+  name: Thong
+  surname: Nguyen
+  pronouns: 
+  company: UniSQ
+  title: Dr
+  bio: 
+  thumbnailUrl: Thong_NguyenHuy.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://staffprofile.unisq.edu.au/Profile/Thong-Nguyen-Huy
