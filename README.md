@@ -1,14 +1,15 @@
-# ResBaz Auckland Template
-* This is a conference template created by Sam Kavanagh based largely on the Project Zeppelin / GDG DevFest 2014 site template.
+# ResBaz Queensland website
 
-### Features
+This website is based on the [ResBaz Auckland](https://resbaz.auckland.ac.nz/) template, a conference template created by Sam Kavanagh based largely on the Project Zeppelin / GDG DevFest 2014 site template.
+
+## Features
 * Easy to setup
 * Simple and responsive design
 * Integrated speakers and sessions management
 * SVG icons
 * SEO friendly
 
-# Quick-start guide
+## Quick-start guide
 1. Fork this repo
 2. Clone locally
 3. Update ```_config.yml```
@@ -61,9 +62,9 @@ To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for L
 
 Learn more about available optimization options from the original Zeppelin template's [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
 
-# Instructions for ResBaz Site Editors
+## Instructions for ResBaz Site Editors
 
-## Blog Posts
+### Blog Posts
 * All blog posts are located in the `_posts/` folder.
 * New blog posts are created simply by creating a new file in this folder and following the naming convention `YYYY-MM-DD-title-here.markdown`
 * All blog posts should begin with the following code snippet:
@@ -78,7 +79,7 @@ isStaticPost: false
 Actual post content goes here. Note the date above should match the filename.
 ```
 
-## Home page sections
+### Home page sections
 * To **enable/disable** a content block on the homepage, simply add/delete on of the lines in the `index.html` file located in the root folder. E.g. to disable the 'Rockstar Speakers' block simply remove the line:
 
 ```
@@ -95,7 +96,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 ```
 * Note that when developing locally Jekyll needs to be restarted before any changes to `_config.yml` are visible.
 
-## Sessions Page
+### Sessions Page
 * To **add/edit** the content that appears on either the 'Sessions' page, simply modify the file `_data/sessions.yml`.
 * Note that this data is also used in other pages, e.g. the 'Schedule' page, and changes to content that already appears in the 'Schedule' page will also be reflected there. However for an item to appear in the schedule, it has to be referenced in the `_data/schedule.yml` file.
 * Regardless of whether an item in `_data/sessions.yml` has been referenced in `_data/schedule.yml`, it will still appear in the 'Schedule' page.
@@ -114,7 +115,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 * Note that the `complexity`, `presentation`, and `subtype` fields are all optional.
 * The `speakers` field references the ID of speakers, listed in the `_data/speakers.yml` file.
 
-## Speakers Page
+### Speakers Page
 * To add/modify speakers, simply modify the file `_data/speakers.yml`.
 * These appear in the format:
 
@@ -136,7 +137,7 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 * Note the `rockstar` field determines whether a speaker appears in the `Rockstar Speakers` block on the homepage
 * The `thumbnailURL`, `ribbon`, and `social` fields are all optional
 
-## Schedule Page
+### Schedule Page
 * To make updates the schedule, simply modify the file `_data/schedule.yml`.
 * Days are each specified separately, and can have their own start/end times, timeslots, and streams.
 * These appear in the following format:
@@ -172,11 +173,8 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 * **Note 2: There are two items in `_data/sessions.yml` which are used to specify lunch/coffee breaks, by default these have the IDs `503` and `307` respectively.**
 * The example above shows a single day with 4 'tracks/streams'. In the timeslot from `11-11:45` there would be no talks for `Stream 1-3`, and the item with the ID `001` specified in `_data/sessions.yml` would appear in `Stream 4`.
 
----
+## Used libraries
 
-### Live demo https://resbaz.auckland.ac.nz/
-
-### Used libraries
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [Animate.css](https://github.com/daneden/animate.css)
 * [Waves](https://github.com/publicis-indonesia/Waves)
@@ -186,7 +184,8 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 * [Sticky-kit](https://github.com/leafo/sticky-kit)
 * [Masonry](https://masonry.desandro.com/)
 
-### License
+## License
+
 Project is published under the MIT license. Feel free to clone and modify repo as you want, but don't forget to add reference to authors.
 
 The original creators of the Zeppelin template also ask that you [contact them](lviv@gdg.org.ua) when your site is live as they maintain a gallery/list of their template instances.
