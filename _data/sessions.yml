@@ -207,7 +207,7 @@
   title: Statistical Comparisons in R
   themes: []
   id: 2014
-  speakers: []
+  speakers: [215]
   subtype: Workshop
   service:
   hidden: false
@@ -258,4 +258,3 @@
   hidden: false
   description:
 -
-

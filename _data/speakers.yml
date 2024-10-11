@@ -278,3 +278,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://staffprofile.unisq.edu.au/Profile/Thong-Nguyen-Huy
+-
+  id: 215
+  name: William
+  surname: Pinzon Perez
+  pronouns: 
+  company: QCIF
+  title: 
+  bio: After working with QCIF as a casual biostatistics training instructor for three years, William joined QCIF full-time in late March 2022 as a Gold Coast-based Junior Statistician. As a fully certified The Carpentries instructor, William will continue to assist QCIF with its training program for researchers, including providing and developing training materials. He will also work across all of QCIF’s biostatistics clinics for its Members, and on any QCIF projects requiring his expertise.
+  thumbnailUrl: william_pinzon_perez.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/william-pinzon-perez
