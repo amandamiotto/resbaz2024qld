@@ -1,10 +1,10 @@
 -
   id: 101
-  name: John
+  name: Dr John
   surname: Mahoney
   pronouns:
   company: ACU
-  title: Dr
+  title: 
   bio: John is a psychologist by training, with an interest in leadership, coaching, and performance. In his academic role, John teaches into undergraduate and postgraduate courses in the School of Behavioural and Health Sciences. He also has a strong track record of leading learning and teaching projects with a focus on student engagement and learning. His passion, however, is to support academics in using highest-level evidence to inform their learning and teaching practices. Along with three colleagues, he established INSPIRE, which aligns closely with his passion. He continues to grow INSPIRE and scale it, as well as work on other learning and teaching projects aimed at providing high-quality student experiences.
   thumbnailUrl: 
   rockstar: true
@@ -252,7 +252,7 @@
   social:
 -
   id: 213
-  name: Awais Hameed
+  name: Dr Awais Hameed
   surname: Khan
   pronouns: 
   company: UQ
@@ -263,14 +263,14 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://social-science.uq.edu.au/profile/7219/awais-hameed-khan
 -
   id: 214
-  name: Thong
+  name: Dr Thong
   surname: Nguyen
   pronouns: 
   company: UniSQ
-  title: Dr
+  title: 
   bio: 
   thumbnailUrl: Thong_NguyenHuy.jpg
   rockstar: false
@@ -294,11 +294,11 @@
   social: https://www.qcif.edu.au/qcif-people/william-pinzon-perez
   -
   id: 216
-  name: Ade
+  name: Dr Ade
   surname: Adeyinka
   pronouns: 
   company: QCIF
-  title: Dr
+  title: 
   bio: I am a Digital Research Analyst. In my role, I provide research supports to staff and students of Southern Cross University (SCU). Previously, I worked in the same role at the University of Southern Queensland in addition to lecturing and conducting research in finance. I specialize in the application of quantitative and qualitative techniques to proffer solutions to financial, social and management problems. I am experienced and engage very well with technical and non-technical audiences. Over the past 16 years, I have gained mastery in the use of various specialized statistical software for data analysis. With these skills, I have been able to support researchers' trainings across Queensland Cyber Infrastructure Foundations (QCIF) and SCU.
   thumbnailUrl: ade_adeyinka.jpg
   rockstar: false
