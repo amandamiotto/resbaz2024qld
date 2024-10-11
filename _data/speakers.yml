@@ -292,3 +292,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/william-pinzon-perez
+  -
+  id: 216
+  name: Ade
+  surname: Adeyinka
+  pronouns: 
+  company: QCIF
+  title: Dr
+  bio: I am a Digital Research Analyst. In my role, I provide research supports to staff and students of Southern Cross University (SCU). Previously, I worked in the same role at the University of Southern Queensland in addition to lecturing and conducting research in finance. I specialize in the application of quantitative and qualitative techniques to proffer solutions to financial, social and management problems. I am experienced and engage very well with technical and non-technical audiences. Over the past 16 years, I have gained mastery in the use of various specialized statistical software for data analysis. With these skills, I have been able to support researchers' trainings across Queensland Cyber Infrastructure Foundations (QCIF) and SCU.
+  thumbnailUrl: ade_adeyinka.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
