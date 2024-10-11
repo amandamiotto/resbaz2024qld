@@ -306,3 +306,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
+    -
+  id: 217
+  name: Kaitlin
+  surname: Moat
+  pronouns: 
+  company: UQ
+  title: 
+  bio: 
+  thumbnailUrl: kaitlin_moat.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/kaitlin-moat-a64338239
