@@ -376,3 +376,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/sara-king-85695472
+-
+  id: 222
+  name: Stéphane
+  surname: Guillou
+  pronouns: he/him
+  company: UQ Library
+  title: Technology Trainer
+  bio: Stéphane is a technology trainer at the UQ Library, promoting Open Research practices and teaching about Open Source tools for scripting, data analysis, data visualisation and authoring. Before then, he worked in plant science research and studied botany and ecology.
+  thumbnailUrl: stephane_guillou.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://stragu.gitlab.io/
