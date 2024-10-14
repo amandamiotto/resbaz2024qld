@@ -42,18 +42,18 @@
   social:
 -
   id: 104
-  name: 
-  surname: 
-  pronouns:
-  company: 
-  title: 
+  name: Allison
+  surname: Bambrick
+  pronouns: She/Her
+  company: Science Development and Office of the Queensland Chief Scientist
+  title: Executive Director
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: allison_bambrick.webp
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.linkedin.com/in/allison-bambrick-she-her-4975a615a
 -
   id: 105
   name: 

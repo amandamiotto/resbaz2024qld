@@ -55,7 +55,7 @@
   hidden: false
   description: null
 -
-  title: Key Note 3
+  title: 
   themes: []
   id: 103
   speakers:
@@ -63,10 +63,10 @@
   hidden: false
   description: null
 -
-  title: Key Note 4
+  title: Key Story - Queensland initiatives for science, Advance QLD
   themes: []
   id: 104
-  speakers:
+  speakers: [104]
   subtype: talk
   hidden: false
   description: null
