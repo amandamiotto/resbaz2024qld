@@ -159,7 +159,7 @@
   hidden: false
   description: This workshop aims to raise awareness of the potential for AI to accelerate and enhance research outputs for the current research milieu. AI is now a fact of life for research and is being increasingly used by students at both undergraduate and post graduate level. This workshop  will cover the newest developments in AI and introduce what AI means for research and how researchers can be prepared for it. The workshop will also cover what researchers need to ask for from research infrastructure at their institution. We will try to present a balanced view of both sides of the arguments for and against the use of AI in research. The format will be informal and will encourage discussion.
 -
-  title: Running an AI locally - Can it be done? 
+  title: "Running an AI locally: Can it be done?"
   themes: []
   id: 2009
   speakers: [206]
@@ -168,7 +168,7 @@
   hidden: false
   description: This workshop aims to demonstrate how a small open LLM can be run locally to automate small, simple tasks locally without the need to use of commercial models. This is a very recent development in the AI space and therefore might be considered an advanced topic for many users. The workshop will assume some intermediate level of coding and will be based in notebooks for ease of hardware specs. The workshop will cover the basic set up and a discussion of the types of models that will work and where to acquire them. Then a simple workflow will be described. Attendees may bring their own data and the notebooks can be provided as long as the attendee can confidently use them on their hardware and coding environment.
 -
-  title: Ethics Advisor - AI & RAG for discussion & advice based on ethics guides
+  title: "Ethics Advisor: AI & RAG for discussion & advice based on ethics guides"
   themes: []
   id: 2010
   speakers: [207]
@@ -177,14 +177,14 @@
   hidden: false
   description: Discussion, demonstration, and implementation of RAG (Retrieval Augmented Generation) as an approach for exploring large and complex data sources
 -
-  title: Collaborative User Groups- Could you start one? Come join ours! 
+  title: "Collaborative User Groups: Could you start one? Come join ours!"
   themes: []
   id: 2011
   speakers: [208]
   subtype: Workshop
   service:
   hidden: false
-  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer- From Journeyman to Master
+  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.<br>*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer - From Journeyman to Master
 -
   title: Using Leximancer and Obsidian
   themes: []
@@ -213,7 +213,7 @@
   hidden: false
   description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
 -
-  title: Introduction to programming - Plotting and Programming with Python
+  title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
   speakers: [212,218,223]
@@ -302,6 +302,15 @@
   service:
   hidden: false
   description: This practical half-day workshop will help participants to develop an understanding of the principles, methods, and interpretation of logistic regression, a statistical technique to generate binary (yes/no) outcomes from complex input data. The course will cover the principles of logistic regression and includes practical sessions getting hands-on experience of logistic regression in R.
+-
+  title: "Moving from insight to influence and impact: the power of data communication"
+  themes: []
+  id: 2025
+  speakers: [225]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workhsop will cover:<br>- Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)<br>- What is impact reporting? - 2 case studies<br>- How to communicate and visualise impact - mistakes and lessons learned<br>- Q & A panel with RIDL data analysts and data scientists<br>- How to make your data matter"
 -
   title: "Moving from insight to influence and impact: the power of data communication"
   themes: []
