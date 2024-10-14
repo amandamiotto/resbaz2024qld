@@ -1,12 +1,12 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-        Filter sessions by topic: <select id="themes">
+        <!-- Filter sessions by topic: <select id="themes">
             <option value="">Show all</option>
             {% for theme in site.data.themes %}
                 <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
             {% endfor %}
-        </select>
+        </select> -->
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-10 col-md-12 col-lg-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
