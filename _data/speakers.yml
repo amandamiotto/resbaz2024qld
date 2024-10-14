@@ -109,7 +109,7 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://about.uq.edu.au/experts/35549
 -
   id: 203
   name: Karen
@@ -348,3 +348,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qut.edu.au/about/our-people/academic-profiles/a.snoswell
+-
+  id: 220
+  name: Dr Martin
+  surname: Schweinberger
+  pronouns: 
+  company: UQ
+  title: Lecturer in Applied Linguistics
+  bio: Dr Martin Schweinberger is Lecturer in Applied Linguistics in the School of Language and Cultures at the University of Queensland (UQ). Martin has specialized in computational approaches to analysing language data with a focus on corpus linguistics and quantitative analyses. His research interests lie in language variation and change, language use and acquisition, and reproducibility in the language sciences. Martin is co-director of the Language Technology and Data Analysis Laboratory (LADAL), board member of the International Computer Archive of Modern and Medieval English (ICAME), Vice-President Profession of the International Society for the Linguistics of English (ISLE), as well as CI at the Language Data Commons of Australia (LDaCA) and the Australian Text Analytics Platform (ATAP).
+  thumbnailUrl: martin_schweinberger.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://languages-cultures.uq.edu.au/profile/4295/martin-schweinberger
