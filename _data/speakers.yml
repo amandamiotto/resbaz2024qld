@@ -404,3 +404,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 224
+  name: Nicholas
+  surname: Maitigian
+  pronouns: 
+  company: QCIF
+  title: Biostatistician and Bioinformatician
+  bio: Nicholas (Nicko) is a data analyst (Biostatistician and Bioinformatician). He has 20 years’ experience in analysing high-throughput genomic data, including gene expression, methylation, metagenomics, high-throughput mass spectrometry protein profiling, next-generation sequencing data, single-cell and spatial transcriptomics.
+  thumbnailUrl: nicholas_maitigian.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/nicholas-matigian

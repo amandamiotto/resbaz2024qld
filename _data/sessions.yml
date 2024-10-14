@@ -294,3 +294,12 @@
   hidden: false
   description: In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.
 -
+  title: Analysing Categorical Outcomes and Logistic Regression
+  themes: []
+  id: 2024
+  speakers: [216,224]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This practical half-day workshop will help participants to develop an understanding of the principles, methods, and interpretation of logistic regression, a statistical technique to generate binary (yes/no) outcomes from complex input data. The course will cover the principles of logistic regression and includes practical sessions getting hands-on experience of logistic regression in R.
+-
