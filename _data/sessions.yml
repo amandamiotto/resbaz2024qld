@@ -139,7 +139,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: By attending this workshop, you will learn <br></ul>About facilitating access to sensitive data at the Australian Data Archive<br></ul>How to use the CADRE (Coordinated Access for Data, Research & Environments) platform   <br></ul>Key considerations for developing your own data sharing arrangements
+  description: By attending this workshop, you will learn <br></ul>- About facilitating access to sensitive data at the Australian Data Archive<br></ul>- How to use the CADRE (Coordinated Access for Data, Research & Environments) platform<br></ul>- Key considerations for developing your own data sharing arrangements
 -
   title: Qualitative Data Analysis using Large Language Models  
   themes: []
@@ -168,7 +168,7 @@
   hidden: false
   description: This workshop aims to demonstrate how a small open LLM can be run locally to automate small, simple tasks locally without the need to use of commercial models. This is a very recent development in the AI space and therefore might be considered an advanced topic for many users. The workshop will assume some intermediate level of coding and will be based in notebooks for ease of hardware specs. The workshop will cover the basic set up and a discussion of the types of models that will work and where to acquire them. Then a simple workflow will be described. Attendees may bring their own data and the notebooks can be provided as long as the attendee can confidently use them on their hardware and coding environment.
 -
-  title: Ethics Advisor- AI & RAG for discussion & advice based on ethics guides
+  title: Ethics Advisor - AI & RAG for discussion & advice based on ethics guides
   themes: []
   id: 2010
   speakers: [207]
