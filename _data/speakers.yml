@@ -390,3 +390,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://stragu.gitlab.io/
+-
+  id: 223
+  name: Justin
+  surname: Scott
+  pronouns: 
+  company: QCIF
+  title: Biostatistician
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
