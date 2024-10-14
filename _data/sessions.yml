@@ -213,10 +213,10 @@
   hidden: false
   description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
 -
-  title: Introduction to programming- Plotting and Programming with Python
+  title: Introduction to programming - Plotting and Programming with Python
   themes: []
   id: 2015
-  speakers: []
+  speakers: [212,218]
   subtype: Workshop
   service:
   hidden: false
