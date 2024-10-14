@@ -159,7 +159,7 @@
   hidden: false
   description: This workshop aims to raise awareness of the potential for AI to accelerate and enhance research outputs for the current research milieu. AI is now a fact of life for research and is being increasingly used by students at both undergraduate and post graduate level. This workshop  will cover the newest developments in AI and introduce what AI means for research and how researchers can be prepared for it. The workshop will also cover what researchers need to ask for from research infrastructure at their institution. We will try to present a balanced view of both sides of the arguments for and against the use of AI in research. The format will be informal and will encourage discussion.
 -
-  title: Running a Large Language Model locally - Can it be done? 
+  title: Running an AI locally - Can it be done? 
   themes: []
   id: 2009
   speakers: [206]
