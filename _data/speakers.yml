@@ -224,18 +224,18 @@
   social:
 -
   id: 211
-  name: Emily
+  name: Dr Emily
   surname: Kahl
   pronouns: She/Her
   company: Pawsey Supercomputing Center
-  title: 
-  bio: 
-  thumbnailUrl: 
+  title: Supercomputing Applications Specialist
+  bio: Dr Emily Kahl is a Supercomputing Applications Specialist at the Pawsey Supercomputing Centre, and is based remotely in Brisbane. Emily develops and maintains software for molecular simulation, with a specific focus on GPU-accelerated computing and machine learning methods in quantum chemistry. She has extensive experience developing and supporting software for computational chemistry and molecular modeling and has contributed to multiple open-source molecular dynamics projects. She is also an advocate for open-source software in computational science, and the code she has developed for atomic and molecular simulation has seen widespread use by Australian and international researchers. Prior to joining Pawsey, Emily completed her PhD in physics at the University of New South Wales and worked as a research software engineer at the University of Queensland.
+  thumbnailUrl: emily_kahl.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.atomwitch.net/mini-cv/
 -
   id: 212
   name: Joanna
