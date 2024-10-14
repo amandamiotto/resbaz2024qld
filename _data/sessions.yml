@@ -276,3 +276,12 @@
   hidden: false
   description: 
 -
+  title: "Network know-how for absolute beginners"
+  themes: []
+  id: 2022
+  speakers: [221]
+  subtype: Workshop
+  service:
+  hidden: true
+  description: 
+-

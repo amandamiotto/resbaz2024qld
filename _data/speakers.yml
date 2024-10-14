@@ -362,3 +362,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://languages-cultures.uq.edu.au/profile/4295/martin-schweinberger
+-
+  id: 221
+  name: Dr Sara
+  surname: King
+  pronouns: she/her
+  company: AARNET
+  title: Training and Engagement Lead
+  bio: Dr Sara King is the Training and Engagement Lead for AARNet and a member of the engagement team for the Language Data Commons of Australia. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.
+  thumbnailUrl: sara_king.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/sara-king-85695472
