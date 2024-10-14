@@ -179,7 +179,7 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.linkedin.com/in/addison-suhr
 -
   id: 208
   name: Cameron
@@ -366,7 +366,7 @@
   id: 221
   name: Dr Sara
   surname: King
-  pronouns: she/her
+  pronouns: She/Her
   company: AARNET
   title: Training and Engagement Lead
   bio: Dr Sara King is the Training and Engagement Lead for AARNet and a member of the engagement team for the Language Data Commons of Australia. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.
@@ -380,7 +380,7 @@
   id: 222
   name: Stéphane
   surname: Guillou
-  pronouns: he/him
+  pronouns: He/Him
   company: UQ Library
   title: Technology Trainer
   bio: Stéphane is a technology trainer at the UQ Library, promoting Open Research practices and teaching about Open Source tools for scripting, data analysis, data visualisation and authoring. Before then, he worked in plant science research and studied botany and ecology.
