@@ -258,3 +258,12 @@
   hidden: false
   description:
 -
+  title: GenAI workshop
+  themes: []
+  id: 2020
+  speakers: [219]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This workshop is based on the 'Unboxing GenAI explainer' series, in which we learn about how image diffusion models like DALL-E and Stable Diffusion work. This is an interactive, hands on session, where we all work through a Jupyter notebook together to step through the various components in a large, modern GenAI system. Basic familiarity with python and/or Jupyter would be a pre-requirement.
+-

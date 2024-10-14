@@ -334,3 +334,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://chemeng.uq.edu.au/profile/2223/tony-howes
+-
+  id: 219
+  name: Dr Aaron
+  surname: Snoswell
+  pronouns: 
+  company: ADM+S Center (QUT)
+  title: Research Fellow
+  bio: I am a computer scientist and research fellow in AI accountability at the ADM+S Center, based at QUT in Brisbane, Australia. My PhD "Modelling and explaining behaviour with Inverse Reinforcement Learning" was awarded in 2022 from The University of Queensland, and developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.<br>My ongoing research is in the development of socio-technical interventions for reducing toxicity in the foundation model machine learning paradigm, looking in particular at the ways sexism and misogyny manifest in large language models. Prior to academia, I worked in industry as a cross-disciplinary mechatronic engineer in doing medical device research and development, pilot and astronaut training, robotics, and software engineering.
+  thumbnailUrl: aaron_snoswell.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/a.snoswell
