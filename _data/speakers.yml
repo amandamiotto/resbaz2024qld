@@ -418,3 +418,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/nicholas-matigian
+-
+  id: 225
+  name: Rhetta
+  surname: Chappell
+  pronouns: 
+  company: RIDL/GDT (Griffith University)
+  title: Data Scientist & Partnerships Lead
+  bio: Rhetta Chappell is the Data Science and Partnerships Lead at Griffith University’s Relational Insights Data Lab (RIDL). In this role she leads a growing team of high-performing data analysts and provides strategic direction on complex, mission and data-driven projects for industry, government, and academic partners. Her role as a speaker at the Royal Statistical Society Conference in Scotland highlights her standing in the field. Rhetta’s work is not just about data analysis; it’s about creating sustainable, impactful solutions aligned with global initiatives like the UN’s Sustainable Development Goals.
+  thumbnailUrl: rhetta_chappell.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/rhetta-chappell-473b2267/
