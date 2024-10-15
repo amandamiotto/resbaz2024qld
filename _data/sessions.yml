@@ -312,3 +312,12 @@
   hidden: false
   description: "This workhsop will cover:<br>- Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)<br>- What is impact reporting? - 2 case studies<br>- How to communicate and visualise impact - mistakes and lessons learned<br>- Q & A panel with RIDL data analysts and data scientists<br>- How to make your data matter"
 -
+  title: "R Shiny essentials: from data to interactive dashboards"
+  themes: []
+  id: 2026
+  speakers: [217,216]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "R Shiny is a popular R package that allows you to transform complex analytics into powerful, user-friendly interactive visualisation tools.<br>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations.<br>We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny."
+-
