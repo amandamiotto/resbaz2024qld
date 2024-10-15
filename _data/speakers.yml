@@ -56,18 +56,18 @@
   social: https://www.linkedin.com/in/allison-bambrick-she-her-4975a615a
 -
   id: 105
-  name: 
-  surname: 
-  pronouns:
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  name: Prof. Kerrie
+  surname: Mengersen
+  pronouns: She/Her
+  company: QUT
+  title: Professor of Statistics
+  bio: "Kerrie Mengersen holds a BA (Hons) in Mathematical Statistics and Computing and a PhD in Mathematical Statistics, both from the University of New England, NSW Australia. She has held positions as a commercial statistical consultant and an academic staff member at four Australian Universities. She is currently a Distinguished Research Professor in Statistical Science and the Director of the QUT Centre for Data Science at QUT, and holds a concurrent role as Associate Member in the Department of Statistics at the University of Oxford, UK. She was a Deputy Director in the ARC Centre of Excellence in Mathematical and Statistical Frontiers (2015-2021) and an ARC Laureate Fellow (2015-2021). In 2018 she was elected as a Fellow of the Australian Academy of Science (AAS), the Academy of Social Sciences in Australia (ASSA) and the Queensland Academy of Arts and Sciences (QAAS). She is an active member of the Institute for Mathematical Sciences, International Biometrics Society, International Statistical Institute and the Statistical Society of Australia.<br>Research Distinguished Professor Mengersen focuses on using and developing new statistical and computational methods that can help to solve complex problems in the real world. These problems are in the fields of environment, genetics, health and medicine, and industry. She enjoys working with a diverse range of people doing outstanding things in many different areas, and contributing expertise in an important component of their work."
+  thumbnailUrl: kerrie_mengersen.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/k.mengersen
 -
   id: 106
   name: 

@@ -71,11 +71,11 @@
   hidden: false
   description: null
 -
-  title: Key Note 5
+  title: Key Story
   themes: []
   id: 105
-  speakers:
-  subtype: talke
+  speakers: [105]
+  subtype: talk
   hidden: false
   description: null
 -
