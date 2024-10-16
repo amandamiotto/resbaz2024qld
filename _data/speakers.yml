@@ -265,20 +265,6 @@
     - {abbr: "", title: "", url: ""}
   social: https://social-science.uq.edu.au/profile/7219/awais-hameed-khan
 -
-  id: 214
-  name: Dr Thong
-  surname: Nguyen
-  pronouns: 
-  company: UniSQ
-  title: 
-  bio: 
-  thumbnailUrl: Thong_NguyenHuy.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-    - {abbr: "", title: "", url: ""}
-  social: https://staffprofile.unisq.edu.au/Profile/Thong-Nguyen-Huy
--
   id: 215
   name: William
   surname: Pinzon Perez
