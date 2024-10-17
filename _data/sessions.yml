@@ -58,7 +58,7 @@
   title: Key Story
   themes: []
   id: 103
-  speakers: [219]
+  speakers: [103]
   subtype: talk
   hidden: false
   description: null
@@ -261,7 +261,7 @@
   title: GenAI lab workshop
   themes: []
   id: 2020
-  speakers: [219]
+  speakers: [103]
   subtype: Workshop
   service:
   hidden: false
