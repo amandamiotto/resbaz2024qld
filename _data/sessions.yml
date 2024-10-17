@@ -55,10 +55,10 @@
   hidden: false
   description: null
 -
-  title: 
+  title: Key Story
   themes: []
   id: 103
-  speakers:
+  speakers: [219]
   subtype: talk
   hidden: false
   description: null
