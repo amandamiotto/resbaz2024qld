@@ -79,10 +79,10 @@
   hidden: false
   description: null
 -
-  title: Key Note 6
+  title: Key Story
   themes: []
   id: 106
-  speakers:
+  speakers: [106]
   subtype: talk
   hidden: false
   description: null

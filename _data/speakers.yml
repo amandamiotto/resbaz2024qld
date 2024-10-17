@@ -70,18 +70,18 @@
   social: https://www.qut.edu.au/about/our-people/academic-profiles/k.mengersen
 -
   id: 106
-  name: 
-  surname: 
+  name: Dr Tapani
+  surname: Rinta-Kahila
   pronouns:
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  company: UQ School of Business
+  title: Research Fellow
+  bio: "Dr Tapani Rinta-Kahila is a Lecturer of Business Information Systems and an ARC DECRA Fellow at The University of Queensland Business School. He holds a doctoral degree from Aalto University School of Business, where he wrote an award-winning dissertation on the decommissioning of organisational information systems. His research focuses on issues around the implementation and management of artificial intelligence (AI) systems in organisations, unintended consequences of technology use, and replacement of organisational information systems (IS). In particular, Tapani strives to understand how contemporary technologies such as AI affect the way in which people learn, work and organise, and how the negative consequences of such technologies can be managed."
+  thumbnailUrl: tapani_rinta-kahila.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://business.uq.edu.au/profile/7312/tapani-rinta-kahila
 -
   id: 201
   name: Sharron
