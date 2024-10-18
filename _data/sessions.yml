@@ -39,50 +39,50 @@
   hidden: true
   description: null
 -
-  title: Key Note 1
+  title: Key Story - Inspiring students and giving them the tools they need to thrive at Uni
   themes: []
   id: 101
-  speakers:
+  speakers: [101]
   subtype: talk
   hidden: false
   description: null
 -
-  title: Key Note 2
+  title: Key Story
   themes: []
   id: 102
-  speakers:
+  speakers: [102]
   subtype: talk
   hidden: false
   description: null
 -
-  title: Key Note 3
+  title: Key Story
   themes: []
   id: 103
-  speakers:
+  speakers: [103]
   subtype: talk
   hidden: false
   description: null
 -
-  title: Key Note 4
+  title: Key Story - Queensland initiatives for science, Advance QLD
   themes: []
   id: 104
-  speakers:
+  speakers: [104]
   subtype: talk
   hidden: false
   description: null
 -
-  title: Key Note 5
+  title: Key Story
   themes: []
   id: 105
-  speakers:
-  subtype: talke
+  speakers: [105]
+  subtype: talk
   hidden: false
   description: null
 -
-  title: Key Note 6
+  title: Key Story
   themes: []
   id: 106
-  speakers:
+  speakers: [106]
   subtype: talk
   hidden: false
   description: null
@@ -114,14 +114,14 @@
   hidden: false
   description: Craft a compelling personal brand as a research, content and technical expert in your field that doesn't leave you feeling like a snake-oil salesman. Investigate the why, how, where and when of branding opportunities, and get comfortable with the uncomfortable reality that you are the brand manager of your own career. The perfect workshop for any introverted, socially-awkward, branding-averse researcher who needs tips on how to successfully promote their career without selling their soul.
 -
-  title: ChattieG Cheats to Optimize your Research Resume
+  title: ChattieG Cheats to Optimise your Research Resume
   themes: []
   id: 2004
   speakers: [203]
   subtype: Workshop
   service:
   hidden: false
-  description: Leverage your favourite AI platform to- review job advertisements efficiently; assess your skills against a vacancy; unpack unknown assumptions about your skills; and translate your skills into job-ready jargon. This workshop is ideal if you struggle to define, evidence, or translate your academic research into industry terminology, or if you're exhausted by the prospect of relentlessly re-writing job applications. Learn the best cheats with ChattieG!
+  description: "Leverage your favourite AI platform to: review job advertisements efficiently; assess your skills against a vacancy; unpack unknown assumptions about your skills; and translate your skills into job-ready jargon. This workshop is ideal if you struggle to define, evidence, or translate your academic research into industry terminology, or if you're exhausted by the prospect of relentlessly re-writing job applications. Learn the best cheats with ChattieG!"
 -
   title: Using the EcoCommons platform to run species distribution models  
   themes: []
@@ -139,9 +139,9 @@
   subtype: Workshop
   service:
   hidden: false
-  description: By attending this workshop, you will learn <br></ul>About facilitating access to sensitive data at the Australian Data Archive<br></ul>How to use the CADRE (Coordinated Access for Data, Research & Environments) platform   <br></ul>Key considerations for developing your own data sharing arrangements
+  description: By attending this workshop, you will learn <br></ul>- About facilitating access to sensitive data at the Australian Data Archive<br></ul>- How to use the CADRE (Coordinated Access for Data, Research & Environments) platform<br></ul>- Key considerations for developing your own data sharing arrangements
 -
-  title: Qualitative Data Analysis using Large Language Models  
+  title: Qualitative Data Analysis using AI  
   themes: []
   id: 2007
   speakers: [206]
@@ -159,7 +159,7 @@
   hidden: false
   description: This workshop aims to raise awareness of the potential for AI to accelerate and enhance research outputs for the current research milieu. AI is now a fact of life for research and is being increasingly used by students at both undergraduate and post graduate level. This workshop  will cover the newest developments in AI and introduce what AI means for research and how researchers can be prepared for it. The workshop will also cover what researchers need to ask for from research infrastructure at their institution. We will try to present a balanced view of both sides of the arguments for and against the use of AI in research. The format will be informal and will encourage discussion.
 -
-  title: Running a Large Language Model locally - Can it be done? 
+  title: "Running an AI locally: Can it be done?"
   themes: []
   id: 2009
   speakers: [206]
@@ -168,7 +168,7 @@
   hidden: false
   description: This workshop aims to demonstrate how a small open LLM can be run locally to automate small, simple tasks locally without the need to use of commercial models. This is a very recent development in the AI space and therefore might be considered an advanced topic for many users. The workshop will assume some intermediate level of coding and will be based in notebooks for ease of hardware specs. The workshop will cover the basic set up and a discussion of the types of models that will work and where to acquire them. Then a simple workflow will be described. Attendees may bring their own data and the notebooks can be provided as long as the attendee can confidently use them on their hardware and coding environment.
 -
-  title: Ethics Advisor- AI & RAG for discussion & advice based on ethics guides
+  title: "Ethics Advisor: AI & RAG for discussion & advice based on ethics guides"
   themes: []
   id: 2010
   speakers: [207]
@@ -177,16 +177,16 @@
   hidden: false
   description: Discussion, demonstration, and implementation of RAG (Retrieval Augmented Generation) as an approach for exploring large and complex data sources
 -
-  title: Collaborative User Groups- Could you start one? Come join ours! 
+  title: "Collaborative User Groups: Could you start one? Come join ours!"
   themes: []
   id: 2011
   speakers: [208]
   subtype: Workshop
   service:
   hidden: false
-  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer- From Journeyman to Master
+  description: Programmers are advised to debug their code by explaining it, line by line, to a rubber duck*. In fact, one of the best ways to troubleshoot your data/research/programming woes is to talk about them. User groups - i.e., communities of practice - offer a collaborative space for researchers to share, discuss and learn about the tools they use. Join us for a live user group - all programming languages welcome! Most of the session will be a drop-in space for any data/programming questions you have (we're teaming up with UQ's usual Python User Group) but we'll also include a discussion on how user groups work, what they take and approaches for starting them.<br>*Hunt, Andrew; Thomas, David (1999). The Pragmatic Programmer - From Journeyman to Master
 -
-  title: Using various software for PhD research
+  title: Using Leximancer and Obsidian
   themes: []
   id: 2012
   speakers: [209]
@@ -207,29 +207,29 @@
   title: Statistical Comparisons in R
   themes: []
   id: 2014
-  speakers: []
+  speakers: [216,217,215]
   subtype: Workshop
   service:
   hidden: false
   description: This practical workshop will help participants to choose and use the appropriate standard statistical test for their data by introducing key concepts of inferential statistics in R. Participants will learn how to compute and interpret hypothesis tests for popular statistical models such as correlation, contingency tables, chi-square test, t-test and ANOVA.
 -
-  title: Introduction to programming- Plotting and Programming with Python
+  title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
-  speakers: []
+  speakers: [212,218,223]
   subtype: Workshop
   service:
   hidden: false
   description: Participants will learn about basic programming concepts including simple and complex data types, conditionals and looping that are applicable to Python and other languages. This workshop will prepare participants to carry out batch analysis and equip them with the knowledge to start creating automated pipelines to increase data processing power and productivity.
 -
-  title: How to fix slow code
+  title: Make your code go fast, fast
   themes: []
   id: 2016
   speakers: [211]
   subtype: Workshop
   service:
   hidden: false
-  description:
+  description: <p>Make your code go fast, fast - practical performance engineering for research software.</p><p>Whether you're running massively-parallel computer simulations or processing huge amounts of research data, research software across all domains increasingly requires the use of large-scale data and computational resources. As a result, it's becoming increasingly important to be able to write fast, well-optimised code to ensure efficient use of computational resources such as high-performance computing clusters, as well as improved turnaround time on research outcomes. Simply put, time spent waiting for code to run is time not spent doing research.</p><p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately you can go a long way with just a little bit of programming know-how applied in the right places. This talk will provide an introduction to performance engineering, with a focus on practical, well-tested techniques for both compute- and data-heavy workflows. I will discuss methodologies and open-source tools which will help you get the most "bang for your buck" when optimising slow code in your research pipelines.</p>
 -
   title: Keypoint workshop
   themes: []
@@ -240,7 +240,7 @@
   hidden: false
   description:
 -
-  title: REDCap workshop
+  title: Data Capture and Management with REDCap
   themes: []
   id: 2018
   speakers: [212]
@@ -258,4 +258,66 @@
   hidden: false
   description:
 -
-
+  title: GenAI lab workshop
+  themes: []
+  id: 2020
+  speakers: [103]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This workshop is based on the 'Unboxing GenAI explainer' series, in which we learn about how image diffusion models like DALL-E and Stable Diffusion work. This is an interactive, hands on session, where we all work through a Jupyter notebook together to step through the various components in a large, modern GenAI system. Basic familiarity with python and/or Jupyter would be a pre-requirement.
+-
+  title: Text analytics with R and LADAL
+  themes: []
+  id: 2021
+  speakers: [202,220]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: 
+-
+  title: AARNET workshop
+  themes: []
+  id: 2022
+  speakers: [221]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: 
+-
+  title: Introduction to geospatial data with R
+  themes: []
+  id: 2023
+  speakers: [222]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.
+-
+  title: Analysing Categorical Outcomes and Logistic Regression
+  themes: []
+  id: 2024
+  speakers: [216,224]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: This practical half-day workshop will help participants to develop an understanding of the principles, methods, and interpretation of logistic regression, a statistical technique to generate binary (yes/no) outcomes from complex input data. The course will cover the principles of logistic regression and includes practical sessions getting hands-on experience of logistic regression in R.
+-
+  title: "Moving from insight to influence and impact: the power of data communication"
+  themes: []
+  id: 2025
+  speakers: [225]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workhsop will cover:<br>- Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)<br>- What is impact reporting? - 2 case studies<br>- How to communicate and visualise impact - mistakes and lessons learned<br>- Q & A panel with RIDL data analysts and data scientists<br>- How to make your data matter"
+-
+  title: "R Shiny essentials: from data to interactive dashboards"
+  themes: []
+  id: 2026
+  speakers: [217,216]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "R Shiny is a popular R package that allows you to transform complex analytics into powerful, user-friendly interactive visualisation tools.<br>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations.<br>We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny."
+-

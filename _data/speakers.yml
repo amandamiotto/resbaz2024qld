@@ -1,87 +1,87 @@
 -
   id: 101
-  name: 
-  surname: 
+  name: Dr John
+  surname: Mahoney
   pronouns:
-  company: 
+  company: ACU
   title: 
-  bio: 
-  thumbnailUrl: 
+  bio: John is a psychologist by training, with an interest in leadership, coaching, and performance. In his academic role, John teaches into undergraduate and postgraduate courses in the School of Behavioural and Health Sciences. He also has a strong track record of leading learning and teaching projects with a focus on student engagement and learning. His passion, however, is to support academics in using highest-level evidence to inform their learning and teaching practices. Along with three colleagues, he established INSPIRE, which aligns closely with his passion. He continues to grow INSPIRE and scale it, as well as work on other learning and teaching projects aimed at providing high-quality student experiences.
+  thumbnailUrl: john_mahoney.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://acuresearchbank.acu.edu.au/researcher/80z65/john-william-mahoney
 -
   id: 102
-  name: 
-  surname: 
+  name: Jelena
+  surname: Nikolic
   pronouns:
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  company: QLD Department of Tourism and Sport
+  title: Chief Digital Officer
+  bio: Jelena leads the Digital Services team at the Department of Tourism and Sport, which provides oversight of all ICT delivery across the department, including the strategic digital agenda, provision of advice, guidance and support of key technology and digital initiatives, digital governance frameworks, and information management and security to advance the department's digital priorities.
+  thumbnailUrl: jelena_nikolic.png
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.linkedin.com/in/jelena-nikolic-83162824b
 -
   id: 103
-  name: 
-  surname: 
-  pronouns:
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  name: Dr Aaron
+  surname: Snoswell
+  pronouns: 
+  company: ADM+S Center (QUT)
+  title: Research Fellow
+  bio: I am a computer scientist and research fellow in AI accountability at the ADM+S Center, based at QUT in Brisbane, Australia. My PhD "Modelling and explaining behaviour with Inverse Reinforcement Learning" was awarded in 2022 from The University of Queensland, and developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.<br>My ongoing research is in the development of socio-technical interventions for reducing toxicity in the foundation model machine learning paradigm, looking in particular at the ways sexism and misogyny manifest in large language models. Prior to academia, I worked in industry as a cross-disciplinary mechatronic engineer in doing medical device research and development, pilot and astronaut training, robotics, and software engineering.
+  thumbnailUrl: aaron_snoswell.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/a.snoswell
 -
   id: 104
-  name: 
-  surname: 
-  pronouns:
-  company: 
-  title: 
+  name: Allison
+  surname: Bambrick
+  pronouns: She/Her
+  company: Science Development and Office of the Queensland Chief Scientist
+  title: Executive Director
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: allison_bambrick.webp
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.linkedin.com/in/allison-bambrick-she-her-4975a615a
 -
   id: 105
-  name: 
-  surname: 
-  pronouns:
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  name: Prof. Kerrie
+  surname: Mengersen
+  pronouns: She/Her
+  company: QUT
+  title: Professor of Statistics
+  bio: "Kerrie Mengersen holds a BA (Hons) in Mathematical Statistics and Computing and a PhD in Mathematical Statistics, both from the University of New England, NSW Australia. She has held positions as a commercial statistical consultant and an academic staff member at four Australian Universities. She is currently a Distinguished Research Professor in Statistical Science and the Director of the QUT Centre for Data Science at QUT, and holds a concurrent role as Associate Member in the Department of Statistics at the University of Oxford, UK. She was a Deputy Director in the ARC Centre of Excellence in Mathematical and Statistical Frontiers (2015-2021) and an ARC Laureate Fellow (2015-2021). In 2018 she was elected as a Fellow of the Australian Academy of Science (AAS), the Academy of Social Sciences in Australia (ASSA) and the Queensland Academy of Arts and Sciences (QAAS). She is an active member of the Institute for Mathematical Sciences, International Biometrics Society, International Statistical Institute and the Statistical Society of Australia.<br>Research Distinguished Professor Mengersen focuses on using and developing new statistical and computational methods that can help to solve complex problems in the real world. These problems are in the fields of environment, genetics, health and medicine, and industry. She enjoys working with a diverse range of people doing outstanding things in many different areas, and contributing expertise in an important component of their work."
+  thumbnailUrl: kerrie_mengersen.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.qut.edu.au/about/our-people/academic-profiles/k.mengersen
 -
   id: 106
-  name: 
-  surname: 
+  name: Dr Tapani
+  surname: Rinta-Kahila
   pronouns:
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  company: UQ School of Business
+  title: Research Fellow
+  bio: "Dr Tapani Rinta-Kahila is a Lecturer of Business Information Systems and an ARC DECRA Fellow at The University of Queensland Business School. He holds a doctoral degree from Aalto University School of Business, where he wrote an award-winning dissertation on the decommissioning of organisational information systems. His research focuses on issues around the implementation and management of artificial intelligence (AI) systems in organisations, unintended consequences of technology use, and replacement of organisational information systems (IS). In particular, Tapani strives to understand how contemporary technologies such as AI affect the way in which people learn, work and organise, and how the negative consequences of such technologies can be managed."
+  thumbnailUrl: tapani_rinta-kahila.jpg
   rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://business.uq.edu.au/profile/7312/tapani-rinta-kahila
 -
   id: 201
   name: Sharron
@@ -109,7 +109,7 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://about.uq.edu.au/experts/35549
 -
   id: 203
   name: Karen
@@ -179,7 +179,7 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.linkedin.com/in/addison-suhr
 -
   id: 208
   name: Cameron
@@ -224,35 +224,35 @@
   social:
 -
   id: 211
-  name: Emily
+  name: Dr Emily
   surname: Kahl
   pronouns: She/Her
   company: Pawsey Supercomputing Center
-  title: 
-  bio: 
-  thumbnailUrl: 
+  title: Supercomputing Applications Specialist
+  bio: Dr Emily Kahl is a Supercomputing Applications Specialist at the Pawsey Supercomputing Centre, and is based remotely in Brisbane. Emily develops and maintains software for molecular simulation, with a specific focus on GPU-accelerated computing and machine learning methods in quantum chemistry. She has extensive experience developing and supporting software for computational chemistry and molecular modeling and has contributed to multiple open-source molecular dynamics projects. She is also an advocate for open-source software in computational science, and the code she has developed for atomic and molecular simulation has seen widespread use by Australian and international researchers. Prior to joining Pawsey, Emily completed her PhD in physics at the University of New South Wales and worked as a research software engineer at the University of Queensland.
+  thumbnailUrl: emily_kahl.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.atomwitch.net/mini-cv/
 -
   id: 212
   name: Joanna
   surname: Salerno
   pronouns: 
-  company: 
-  title: 
-  bio: 
-  thumbnailUrl: 
+  company: QCIF
+  title: Data Scientist
+  bio: Joanna is a Data Scientist at QCIF. Previously, Joanna was a data science trainer at QCIF, where she delivered workshops designed to help researchers upskill in areas such as programming, statistical analysis, data management, and research communication. While her role has expanded, she will continue to contribute to QCIF’s extensive training program. Joanna’s journey into data science began during her undergraduate studies in psychology, where she developed an interest in data analysis while studying memory and aging. She later worked as a research assistant at The Ohio State University and Duke University, managing projects focused on understanding how mindfulness meditation impacts cognition, and how memory and decision-making processes change across the lifespan. These experiences inspired her to pursue a Master of Data Analytics at Queensland University of Technology, blending her research and psychology background with technical capabilities. Mentorship has been a key part of Joanna’s journey, and she remains committed to supporting others in their research, programming, and data science development. She is passionate about using data to uncover insights, tell meaningful stories, and foster innovation and impactful change across various fields.
+  thumbnailUrl: joanna_salerno.webp
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://www.qcif.edu.au/qcif-people/joanna-salerno
 -
   id: 213
-  name: Awais Hameed
+  name: Dr Awais Hameed
   surname: Khan
   pronouns: 
   company: UQ
@@ -263,18 +263,144 @@
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social:
+  social: https://social-science.uq.edu.au/profile/7219/awais-hameed-khan
 -
-  id: 214
-  name: Thong
-  surname: Nguyen
+  id: 215
+  name: William
+  surname: Pinzon Perez
   pronouns: 
-  company: UniSQ
-  title: Dr
-  bio: 
-  thumbnailUrl: Thong_NguyenHuy.jpg
+  company: QCIF
+  title: 
+  bio: After working with QCIF as a casual biostatistics training instructor for three years, William joined QCIF full-time in late March 2022 as a Gold Coast-based Junior Statistician. As a fully certified The Carpentries instructor, William will continue to assist QCIF with its training program for researchers, including providing and developing training materials. He will also work across all of QCIF’s biostatistics clinics for its Members, and on any QCIF projects requiring his expertise.
+  thumbnailUrl: william_pinzon_perez.webp
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://staffprofile.unisq.edu.au/Profile/Thong-Nguyen-Huy
+  social: https://www.qcif.edu.au/qcif-people/william-pinzon-perez
+-
+  id: 216
+  name: Dr Ade
+  surname: Adeyinka
+  pronouns: 
+  company: QCIF
+  title: 
+  bio: I am a Digital Research Analyst. In my role, I provide research supports to staff and students of Southern Cross University (SCU). Previously, I worked in the same role at the University of Southern Queensland in addition to lecturing and conducting research in finance. I specialize in the application of quantitative and qualitative techniques to proffer solutions to financial, social and management problems. I am experienced and engage very well with technical and non-technical audiences. Over the past 16 years, I have gained mastery in the use of various specialized statistical software for data analysis. With these skills, I have been able to support researchers' trainings across Queensland Cyber Infrastructure Foundations (QCIF) and SCU.
+  thumbnailUrl: ade_adeyinka.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/adewuyi-ayodele-adeyinka-36112317
+-
+  id: 217
+  name: Kaitlin
+  surname: Moat
+  pronouns: 
+  company: UQ
+  title: 
+  bio: 
+  thumbnailUrl: kaitlin_moat.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/kaitlin-moat-a64338239
+-
+  id: 218
+  name: Dr Tony
+  surname: Howes
+  pronouns: 
+  company: UQ
+  title: Honorary Associate Professor
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://chemeng.uq.edu.au/profile/2223/tony-howes
+-
+  id: 220
+  name: Dr Martin
+  surname: Schweinberger
+  pronouns: 
+  company: UQ
+  title: Lecturer in Applied Linguistics
+  bio: Dr Martin Schweinberger is Lecturer in Applied Linguistics in the School of Language and Cultures at the University of Queensland (UQ). Martin has specialized in computational approaches to analysing language data with a focus on corpus linguistics and quantitative analyses. His research interests lie in language variation and change, language use and acquisition, and reproducibility in the language sciences. Martin is co-director of the Language Technology and Data Analysis Laboratory (LADAL), board member of the International Computer Archive of Modern and Medieval English (ICAME), Vice-President Profession of the International Society for the Linguistics of English (ISLE), as well as CI at the Language Data Commons of Australia (LDaCA) and the Australian Text Analytics Platform (ATAP).
+  thumbnailUrl: martin_schweinberger.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://languages-cultures.uq.edu.au/profile/4295/martin-schweinberger
+-
+  id: 221
+  name: Dr Sara
+  surname: King
+  pronouns: She/Her
+  company: AARNET
+  title: Training and Engagement Lead
+  bio: Dr Sara King is the Training and Engagement Lead for AARNet and a member of the engagement team for the Language Data Commons of Australia. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.
+  thumbnailUrl: sara_king.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/sara-king-85695472
+-
+  id: 222
+  name: Stéphane
+  surname: Guillou
+  pronouns: He/Him
+  company: UQ Library
+  title: Technology Trainer
+  bio: Stéphane is a technology trainer at the UQ Library, promoting Open Research practices and teaching about Open Source tools for scripting, data analysis, data visualisation and authoring. Before then, he worked in plant science research and studied botany and ecology.
+  thumbnailUrl: stephane_guillou.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://stragu.gitlab.io/
+-
+  id: 223
+  name: Justin
+  surname: Scott
+  pronouns: 
+  company: QCIF
+  title: Biostatistician
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 
+-
+  id: 224
+  name: Nicholas
+  surname: Maitigian
+  pronouns: 
+  company: QCIF
+  title: Biostatistician and Bioinformatician
+  bio: Nicholas (Nicko) is a data analyst (Biostatistician and Bioinformatician). He has 20 years’ experience in analysing high-throughput genomic data, including gene expression, methylation, metagenomics, high-throughput mass spectrometry protein profiling, next-generation sequencing data, single-cell and spatial transcriptomics.
+  thumbnailUrl: nicholas_maitigian.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/nicholas-matigian
+-
+  id: 225
+  name: Rhetta
+  surname: Chappell
+  pronouns: 
+  company: RIDL/GDT (Griffith University)
+  title: Data Scientist & Partnerships Lead
+  bio: Rhetta Chappell is the Data Science and Partnerships Lead at Griffith University’s Relational Insights Data Lab (RIDL). In this role she leads a growing team of high-performing data analysts and provides strategic direction on complex, mission and data-driven projects for industry, government, and academic partners. Her role as a speaker at the Royal Statistical Society Conference in Scotland highlights her standing in the field. Rhetta’s work is not just about data analysis; it’s about creating sustainable, impactful solutions aligned with global initiatives like the UN’s Sustainable Development Goals.
+  thumbnailUrl: rhetta_chappell.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/rhetta-chappell-473b2267/
