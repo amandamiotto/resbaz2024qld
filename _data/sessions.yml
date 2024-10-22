@@ -39,6 +39,15 @@
   hidden: true
   description: null
 -
+  title: Networking drinks - Nudgee Beach Hotel
+  themes: []
+  id: 005
+  speakers:
+  subtype:
+  service:
+  hidden: true
+  description: Join us for a relaxed evening of networking drinks at the <a href="https://www.nudgeebeachhotel.com.au/">Nudgee Beach Hotel</a> to celebrate the conclusion of ResBaz! From 5:30 pm onwards, this is the perfect opportunity to unwind, connect with fellow attendees, and reflect on the inspiring sessions and workshops we've experienced. We look forward to seeing you there! 
+-
   title: Key Story - Inspiring students and giving them the tools they need to thrive at Uni
   themes: []
   id: 101
@@ -63,7 +72,7 @@
   hidden: false
   description: null
 -
-  title: Key Story - Queensland initiatives for science, Advance QLD
+  title: Key Story - Queensland initiatives for science
   themes: []
   id: 104
   speakers: [104]
