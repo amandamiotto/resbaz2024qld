@@ -265,7 +265,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description:
+  description: "In this design methods workshop, learn about the basics of how to create participatory design methods, tools, and techniques. We will explore what considerations are important to creatively scaffold participation in collaborative research settings. The workshop will cover practical strategies to design ‘design methods’, importance of materiality and staging, as well as how reformatting outcomes can create meaningful value."
 -
   title: A gentle introduction to stable diffusion and generative text-to-image models
   themes: []
