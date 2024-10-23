@@ -285,14 +285,21 @@
   hidden: false
   description: 
 -
-  title: AARNET workshop
+  title: "Network Know-how: A Practical Workshop on Digital Research Infrastructure"
   themes: []
   id: 2022
   speakers: [221]
   subtype: Workshop
   service:
   hidden: false
-  description: 
+  description: "<p>Do networks and data feel like a foreign language? We’re here to help. In this hands-on workshop, we’ll break down the jargon and explore key topics like network basics, data movement, and tools to streamline your research.</p>
+<p>Join us for a fun exploration of the digital world where you’ll learn how to master the art of network tech, manage active research data, and transfer even the largest files with ease. By the end of this workshop, you’ll walk away with practical skills and the confidence to tackle complex internet and data challenges like a pro:</p>
+•	Understand different internet connections in Australia and how to make the most of them.<br>
+•	Learn key network terms and concepts.<br>
+•	Run tests to check and improve your connection.<br>
+•	Calculate data transfer times and move large files efficiently.<br>
+•	Troubleshoot network challenges and find the best tools for data movement.<br>
+<p>Boost your research toolkit and navigate networks with confidence!</p>"
 -
   title: Introduction to geospatial data with R
   themes: []
