@@ -105,15 +105,6 @@
   hidden: false
   description: Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. <br> You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on.  
 -
-  title: Introduction to Text Analytics with R
-  themes: []
-  id: 2002
-  speakers: [202]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: This workshop will provide an introduction to text analytics with R. We'll start from scratch and introduce standard concepts in working with text as data then work through practical examples of key techniques.
--
   title: Personal Branding for Researchers (and the branding-averse)
   themes: []
   id: 2003
