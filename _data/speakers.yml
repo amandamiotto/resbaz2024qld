@@ -404,3 +404,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/rhetta-chappell-473b2267/
+-
+  id: 226
+  name: Heather
+  surname: Monro-Allison
+  pronouns: 
+  company: Griffith University
+  title: Librarian
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/heather-monro-allison-b2949553
