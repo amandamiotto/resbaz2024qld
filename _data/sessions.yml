@@ -364,3 +364,12 @@
   hidden: false
   description: "R Shiny is a popular R package that allows you to transform complex analytics into powerful, user-friendly interactive visualisation tools.<br>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations.<br>We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny."
 -
+  title: "Postgraduation: A career in software engineering"
+  themes: []
+  id: 2027
+  speakers: [228]
+  subtype: Talk
+  service:
+  hidden: false
+  description: 
+-
