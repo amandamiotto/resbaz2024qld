@@ -238,7 +238,8 @@
   subtype: Workshop
   service:
   hidden: false
-  description: <p>Make your code go fast, fast - practical performance engineering for research software.</p><p>Whether you're running massively-parallel computer simulations or processing huge amounts of research data, research software across all domains increasingly requires the use of large-scale data and computational resources. As a result, it's becoming increasingly important to be able to write fast, well-optimised code to ensure efficient use of computational resources such as high-performance computing clusters, as well as improved turnaround time on research outcomes. Simply put, time spent waiting for code to run is time not spent doing research.</p><p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately you can go a long way with just a little bit of programming know-how applied in the right places. This talk will provide an introduction to performance engineering, with a focus on practical, well-tested techniques for both compute- and data-heavy workflows. I will discuss methodologies and open-source tools which will help you get the most "bang for your buck" when optimising slow code in your research pipelines.</p>
+  description: <p>Make your code go fast, fast - practical performance engineering for research software.</p><p>Whether you're running massively-parallel computer simulations or processing huge amounts of research data, research software across all domains increasingly requires the use of large-scale data and computational resources. As a result, it's becoming increasingly important to be able to write fast, well-optimised code to ensure efficient use of computational resources such as high-performance computing clusters, as well as improved turnaround time on research outcomes. Simply put, time spent waiting for code to run is time not spent doing research.</p>
+  <p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately you can go a long way with just a little bit of programming know-how applied in the right places. This talk will provide an introduction to performance engineering, with a focus on practical, well-tested techniques for both compute- and data-heavy workflows. I will discuss methodologies and open-source tools which will help you get the most "bang for your buck" when optimising slow code in your research pipelines.</p>
 -
   title: Keypoint workshop
   themes: []
@@ -274,7 +275,8 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "<p>In this hands-on workshop, participants will learn more than they ever wanted to know about how generative text-to-image models work. Come and look 'under-the-hood' of DALL-E, MidJourney, Stable Diffusion, and other similar systems as you work through a series of interactive python Jupyter notebooks to deconstruct then re-construct a diffusion model from scratch. By the end of the workshop, you will understand the components that go into making a contemporary GenAI image generator, be equipped to critique and study these socio-technical systems, and will hopefully have had some fun interrogating and interacting with all of the technological 'ingredients' along the way.</p><p>Some familiarity with python and/or Jupyter notebook is recommended for participants. Participants are strongly encouraged to bring their own laptop to work through the activities on the day. Optionally, participants can get started with the notebooks early by browsing to <a href='https://research.qut.edu.au/genailab/projects/unboxing-genai/#:~:text=A%20Gentle%20Introduction%20to%20Stable%20Diffusion'>this page</a>, under the heading 'A Gentle Introduction to Stable Diffusion'.</p>"
+  description: "<p>In this hands-on workshop, participants will learn more than they ever wanted to know about how generative text-to-image models work. Come and look 'under-the-hood' of DALL-E, MidJourney, Stable Diffusion, and other similar systems as you work through a series of interactive python Jupyter notebooks to deconstruct then re-construct a diffusion model from scratch. By the end of the workshop, you will understand the components that go into making a contemporary GenAI image generator, be equipped to critique and study these socio-technical systems, and will hopefully have had some fun interrogating and interacting with all of the technological 'ingredients' along the way.</p>
+  <p>Some familiarity with python and/or Jupyter notebook is recommended for participants. Participants are strongly encouraged to bring their own laptop to work through the activities on the day. Optionally, participants can get started with the notebooks early by browsing to <a href='https://research.qut.edu.au/genailab/projects/unboxing-genai/#:~:text=A%20Gentle%20Introduction%20to%20Stable%20Diffusion'>this page</a>, under the heading 'A Gentle Introduction to Stable Diffusion'.</p>"
 -
   title: "Text Analytics part 1: Introduction to R for Text Analysis"
   themes: []
@@ -300,14 +302,14 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "Not familiar with R but still want to dive into text analysis? In this second part of the workshop, we’ll introduce LADAL Tools, a suite of interactive notebooks designed to make text analysis accessible to researchers of all levels, allowing you to perform complex analyses without needing to code. During this session, we will:
- 
-•	Demonstrate how to upload and clean your own language data using LADAL Tools
-•	Guide you through concordancing and keyword extraction to better understand patterns in your text
-•	Showcase advanced text analysis techniques such as topic modelling and network analysis
-•	Provide hands-on examples and real-time demonstrations to ensure you can follow along, even without coding experience
- 
-Whether you’re a linguist, researcher, or academic from the humanities, social sciences, or related fields, this session will equip you with practical tools to enhance your text analysis without the steep learning curve of programming. You'll leave the workshop ready to apply LADAL’s easy-to-use tools to your own research data. For more information on LADAL Tools, visit the <a href='www.ladal.edu.au'>LADAL website</a>."
+  description: "<p>Not familiar with R but still want to dive into text analysis? In this second part of the workshop, we’ll introduce LADAL Tools, a suite of interactive notebooks designed to make text analysis accessible to researchers of all levels, allowing you to perform complex analyses without needing to code. During this session, we will:</p>
+<ul>
+<li>Demonstrate how to upload and clean your own language data using LADAL Tools</li>
+<li>Guide you through concordancing and keyword extraction to better understand patterns in your text</li>
+<li>Showcase advanced text analysis techniques such as topic modelling and network analysis</li>
+<li>Provide hands-on examples and real-time demonstrations to ensure you can follow along, even without coding experience</li>
+</ul>
+<p>Whether you’re a linguist, researcher, or academic from the humanities, social sciences, or related fields, this session will equip you with practical tools to enhance your text analysis without the steep learning curve of programming. You'll leave the workshop ready to apply LADAL’s easy-to-use tools to your own research data. For more information on LADAL Tools, visit the <a href='www.ladal.edu.au'>LADAL website</a>.</p>"
 -
   title: "Network Know-how: A Practical Workshop on Digital Research Infrastructure"
   themes: []
@@ -318,11 +320,13 @@ Whether you’re a linguist, researcher, or academic from the humanities, social
   hidden: false
   description: "<p>Do networks and data feel like a foreign language? We’re here to help. In this hands-on workshop, we’ll break down the jargon and explore key topics like network basics, data movement, and tools to streamline your research.</p>
 <p>Join us for a fun exploration of the digital world where you’ll learn how to master the art of network tech, manage active research data, and transfer even the largest files with ease. By the end of this workshop, you’ll walk away with practical skills and the confidence to tackle complex internet and data challenges like a pro:</p>
-<p>•	Understand different internet connections in Australia and how to make the most of them.<br>
-•	Learn key network terms and concepts.<br>
-•	Run tests to check and improve your connection.<br>
-•	Calculate data transfer times and move large files efficiently.<br>
-•	Troubleshoot network challenges and find the best tools for data movement.<br></p>
+<ul>
+<li>Understand different internet connections in Australia and how to make the most of them.</li>
+<li>Learn key network terms and concepts.</li>
+<li>Run tests to check and improve your connection.</li>
+<li>Calculate data transfer times and move large files efficiently.</li>
+<li>Troubleshoot network challenges and find the best tools for data movement.</li>
+</ul>
 <p>Boost your research toolkit and navigate networks with confidence!</p>"
 -
   title: Introduction to geospatial data with R
@@ -350,7 +354,15 @@ Whether you’re a linguist, researcher, or academic from the humanities, social
   subtype: Workshop
   service:
   hidden: false
-  description: "This workhsop will cover:<br>- Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)<br>- What is impact reporting? - 2 case studies<br>- How to communicate and visualise impact - mistakes and lessons learned<br>- Q & A panel with RIDL data analysts and data scientists<br>- How to make your data matter"
+  description: "<p>This workhsop will cover:</p>
+  <ul>
+  <li>Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)</li>
+  <li>What is impact reporting?</li>
+  <li>2 case studies</li>
+  <li>How to communicate and visualise impact - mistakes and lessons learned</li>
+  <li>Q & A panel with RIDL data analysts and data scientists</li>
+  <li>How to make your data matter</li>
+  </ul>"
 -
   title: "R Shiny essentials: from data to interactive dashboards"
   themes: []
