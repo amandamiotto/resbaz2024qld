@@ -276,14 +276,39 @@
   hidden: false
   description: "<p>In this hands-on workshop, participants will learn more than they ever wanted to know about how generative text-to-image models work. Come and look 'under-the-hood' of DALL-E, MidJourney, Stable Diffusion, and other similar systems as you work through a series of interactive python Jupyter notebooks to deconstruct then re-construct a diffusion model from scratch. By the end of the workshop, you will understand the components that go into making a contemporary GenAI image generator, be equipped to critique and study these socio-technical systems, and will hopefully have had some fun interrogating and interacting with all of the technological 'ingredients' along the way.</p><p>Some familiarity with python and/or Jupyter notebook is recommended for participants. Participants are strongly encouraged to bring their own laptop to work through the activities on the day. Optionally, participants can get started with the notebooks early by browsing to <a href='https://research.qut.edu.au/genailab/projects/unboxing-genai/#:~:text=A%20Gentle%20Introduction%20to%20Stable%20Diffusion'>this page</a>, under the heading 'A Gentle Introduction to Stable Diffusion'.</p>"
 -
-  title: Text analytics with R and LADAL
+  title: "Text Analytics part 1: Introduction to R for Text Analysis"
   themes: []
-  id: 2021
+  id: 20211
   speakers: [202,220]
   subtype: Workshop
   service:
   hidden: false
-  description: 
+  description: "<p>Are you looking to improve your text analysis skills using R? This introductory session will focus on setting up efficient workflows for analysing language data in R and RStudio. The workshop is ideal for participants with basic R skills who want to explore how R can be applied to text analysis. In this hands-on session, you will learn:</p>
+<ul>
+<li>How to properly configure R and RStudio for text analysis projects</li>
+<li>Techniques for loading, cleaning, and processing language data in R</li>
+<li>How to generate concordances (keyword-in-context displays) to better understand word usage in context</li>
+<li>Methods for extracting collocations and identifying keywords in your dataset</li>
+</ul>
+<p>This session will focus on best practices and optimal workflows, helping you work more efficiently and accurately when processing language data. Whether you're a linguist, social scientist, or researcher in the humanities, this workshop will give you the skills to get the most out of your data analysis in R.</p>
+"
+-
+  title: "Text Analytics part 2: Interactive Text Analysis with LADAL Tools"
+  themes: []
+  id: 20212
+  speakers: [202,220]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "Not familiar with R but still want to dive into text analysis? In this second part of the workshop, we’ll introduce LADAL Tools, a suite of interactive notebooks designed to make text analysis accessible to researchers of all levels, allowing you to perform complex analyses without needing to code. During this session, we will:
+ 
+•	Demonstrate how to upload and clean your own language data using LADAL Tools
+•	Guide you through concordancing and keyword extraction to better understand patterns in your text
+•	Showcase advanced text analysis techniques such as topic modelling and network analysis
+•	Provide hands-on examples and real-time demonstrations to ensure you can follow along, even without coding experience
+ 
+Whether you’re a linguist, researcher, or academic from the humanities, social sciences, or related fields, this session will equip you with practical tools to enhance your text analysis without the steep learning curve of programming. You'll leave the workshop ready to apply LADAL’s easy-to-use tools to your own research data. For more information on LADAL Tools, visit the <a href="www.ladal.edu.au>LADAL website</a>.
+"
 -
   title: "Network Know-how: A Practical Workshop on Digital Research Infrastructure"
   themes: []
@@ -294,11 +319,11 @@
   hidden: false
   description: "<p>Do networks and data feel like a foreign language? We’re here to help. In this hands-on workshop, we’ll break down the jargon and explore key topics like network basics, data movement, and tools to streamline your research.</p>
 <p>Join us for a fun exploration of the digital world where you’ll learn how to master the art of network tech, manage active research data, and transfer even the largest files with ease. By the end of this workshop, you’ll walk away with practical skills and the confidence to tackle complex internet and data challenges like a pro:</p>
-•	Understand different internet connections in Australia and how to make the most of them.<br>
+<p>•	Understand different internet connections in Australia and how to make the most of them.<br>
 •	Learn key network terms and concepts.<br>
 •	Run tests to check and improve your connection.<br>
 •	Calculate data transfer times and move large files efficiently.<br>
-•	Troubleshoot network challenges and find the best tools for data movement.<br>
+•	Troubleshoot network challenges and find the best tools for data movement.<br></p>
 <p>Boost your research toolkit and navigate networks with confidence!</p>"
 -
   title: Introduction to geospatial data with R
