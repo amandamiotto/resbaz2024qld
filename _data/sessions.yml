@@ -242,10 +242,10 @@
   hidden: false
   description:
 -
-  title: Data Capture and Management with REDCap
+  title: Data capture and form design using REDCap
   themes: []
   id: 2018
-  speakers: [212]
+  speakers: [212,227]
   subtype: Workshop
   service:
   hidden: false

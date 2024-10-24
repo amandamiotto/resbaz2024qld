@@ -418,3 +418,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/heather-monro-allison-b2949553
+-
+  id: 227
+  name: Mark
+  surname: Hoffman
+  pronouns: 
+  company: QCIF
+  title: Senior Health Informatician
+  bio: 
+  thumbnailUrl: mark_hoffman.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/mark-hoffmann
