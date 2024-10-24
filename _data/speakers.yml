@@ -432,3 +432,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/mark-hoffmann
+-
+  id: 228
+  name: Peter
+  surname: Marendy
+  pronouns: 
+  company: QCIF
+  title: Head of Data Services
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/peter-marendy
