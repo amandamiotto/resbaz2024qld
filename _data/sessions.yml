@@ -327,7 +327,8 @@
   subtype: Workshop
   service:
   hidden: false
-  description: In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.
+  description: "<p>In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.</p>
+  <p>This workshop expects attendees to have used R, dplyr and ggplot2 before.</p>"
 -
   title: Analysing Categorical Outcomes and Logistic Regression
   themes: []
