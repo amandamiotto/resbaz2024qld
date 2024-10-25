@@ -132,7 +132,7 @@
   company: QCIF
   title: Senior Data Scientist 
   bio: Jenna is a Conservation Scientist with expertise in ecological modelling, species distribution, and biodiversity data analysis to support policy and conservation efforts. As the Senior Data Scientist at QCIF for EcoCommons, she oversees the development of the collaborative platform that enables researchers to build, share, and apply advanced ecological models.
-  thumbnailUrl: 
+  thumbnailUrl: jenna_wraith.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -446,3 +446,31 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/peter-marendy
+  -
+  id: 229
+  name: Abhimanyu (Raj)
+  surname: Singh
+  pronouns: 
+  company: QCIF
+  title: Data Ecologist
+  bio: 
+  thumbnailUrl: abhimanyu_raj_singh.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/abhimanyu-(raj)-singh
+   -
+  id: 230
+  name: Xiang
+  surname: Zhao
+  pronouns: 
+  company: QCIF
+  title: Software Developer and R Specialist
+  bio: 
+  thumbnailUrl: xiang_zhao.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/xiang-zhao-4ba08113a
