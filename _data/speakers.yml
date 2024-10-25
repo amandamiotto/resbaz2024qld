@@ -446,7 +446,7 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/peter-marendy
-  -
+-
   id: 229
   name: Abhimanyu (Raj)
   surname: Singh
@@ -460,7 +460,7 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.qcif.edu.au/qcif-people/abhimanyu-(raj)-singh
-   -
+-
   id: 230
   name: Xiang
   surname: Zhao
@@ -474,3 +474,17 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/xiang-zhao-4ba08113a
+-
+  id: 231
+  name: Dr Andrew
+  surname: Jones
+  pronouns: 
+  company: QCIF
+  title: Senior Biostatistician
+  bio: 
+  thumbnailUrl: andrew_jones.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/dr-andrew-jones
