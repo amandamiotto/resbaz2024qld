@@ -207,7 +207,7 @@
   title: Statistical Comparisons in R
   themes: []
   id: 2014
-  speakers: [216,215,224]
+  speakers: [215,224,216]
   subtype: Workshop
   service:
   hidden: false
@@ -216,7 +216,7 @@
   title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
-  speakers: [217,218,223]
+  speakers: [218,217,223]
   subtype: Workshop
   service:
   hidden: false
@@ -333,7 +333,7 @@
   title: Analysing Categorical Outcomes and Logistic Regression
   themes: []
   id: 2024
-  speakers: [216,231]
+  speakers: [231,216]
   subtype: Workshop
   service:
   hidden: false
@@ -359,7 +359,7 @@
   title: "R Shiny essentials: from data to interactive dashboards"
   themes: []
   id: 2026
-  speakers: [217,216]
+  speakers: [216,217]
   subtype: Workshop
   service:
   hidden: false
