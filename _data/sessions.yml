@@ -64,13 +64,13 @@
   hidden: false
   description: null
 -
-  title: Key Story
+  title: "Key Story - The Pro-social Ranking Challenge: reflections from a large-scale project translating AI research into practice"
   themes: []
   id: 103
   speakers: [103]
   subtype: talk
   hidden: false
-  description: null
+  description: "In 2024, the QUT Generative AI Lab, along with colleagues from the QUT Digital Media Research Centre (DMRC) and ARC Centre for Excellence in Automated Decision Making and Society (ADM+S) participated in the Pro-Social Ranking Challenge. Hosted by the Centre for Human-Compatible AI (CHAI) at UC Berkeley, this competition charged teams with re-designing social media feed algorithms, based on cutting edge science about wellbeing, and the latest AI technology advances. Our submission, which was selected as a finalist entry but not one of the winners, focused on reducing political polarization through a combination of interventions, utilising multiple 'off the shelf' and custom AI models. This short talk will share reflections from this international research collaboration, as well as lessons learned from translating an AI-centric research idea into a production quality software system over the course of a nine-month international collaboration."
 -
   title: Key Story - Queensland initiatives for science
   themes: []
@@ -99,20 +99,11 @@
   title: Introduction to data cleaning with OpenRefine
   themes: []
   id: 2001
-  speakers: [201]
+  speakers: [201,226]
   subtype: Workshop
   service:
   hidden: false
   description: Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. <br> You will need a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on.  
--
-  title: Introduction to Text Analytics with R
-  themes: []
-  id: 2002
-  speakers: [202]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: This workshop will provide an introduction to text analytics with R. We'll start from scratch and introduce standard concepts in working with text as data then work through practical examples of key techniques.
 -
   title: Personal Branding for Researchers (and the branding-averse)
   themes: []
@@ -135,7 +126,7 @@
   title: Using the EcoCommons platform to run species distribution models  
   themes: []
   id: 2005
-  speakers: [204]
+  speakers: [204,229,230]
   subtype: Workshop
   service:
   hidden: false
@@ -159,7 +150,7 @@
   hidden: false
   description: The workshop will cover the use of LLM to process data qualitatively as well as perform extractive reasoning on the data. LLM Summarisation of data and outputs is also discussed. The objective of the workshop is to demonstrate the usefulness of LLM to accelerate research outputs and discovery when working with research data. We will discuss the benefits and limitations as well as the considerations that need to be made with data and data processing. There will be a practical demonstration of the processing of some data drawn from various sources such as Reddit, YouTube and NewsTalk. 
 -
-  title: Demystifying AI for Research  
+  title: Demystifying AI for Research (Booked out) 
   themes: []
   id: 2008
   speakers: [206]
@@ -216,7 +207,7 @@
   title: Statistical Comparisons in R
   themes: []
   id: 2014
-  speakers: [216,217,215]
+  speakers: [216,215,224]
   subtype: Workshop
   service:
   hidden: false
@@ -225,7 +216,7 @@
   title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
-  speakers: [212,218,223]
+  speakers: [217,218,223]
   subtype: Workshop
   service:
   hidden: false
@@ -238,21 +229,23 @@
   subtype: Workshop
   service:
   hidden: false
-  description: <p>Make your code go fast, fast - practical performance engineering for research software.</p><p>Whether you're running massively-parallel computer simulations or processing huge amounts of research data, research software across all domains increasingly requires the use of large-scale data and computational resources. As a result, it's becoming increasingly important to be able to write fast, well-optimised code to ensure efficient use of computational resources such as high-performance computing clusters, as well as improved turnaround time on research outcomes. Simply put, time spent waiting for code to run is time not spent doing research.</p><p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately you can go a long way with just a little bit of programming know-how applied in the right places. This talk will provide an introduction to performance engineering, with a focus on practical, well-tested techniques for both compute- and data-heavy workflows. I will discuss methodologies and open-source tools which will help you get the most "bang for your buck" when optimising slow code in your research pipelines.</p>
+  description: "<p>Make your code go fast, fast - practical performance engineering for research software.</p>
+  <p>Whether you're running massively-parallel computer simulations or processing huge amounts of research data, research software across all domains increasingly requires the use of large-scale data and computational resources. As a result, it's becoming increasingly important to be able to write fast, well-optimised code to ensure efficient use of computational resources such as high-performance computing clusters, as well as improved turnaround time on research outcomes. Simply put, time spent waiting for code to run is time not spent doing research.</p>
+  <p>Squeezing every available bit of performance out of your code can be extremely time-consuming, but fortunately you can go a long way with just a little bit of programming know-how applied in the right places. This talk will provide an introduction to performance engineering, with a focus on practical, well-tested techniques for both compute- and data-heavy workflows. I will discuss methodologies and open-source tools which will help you get the most 'bang for your buck' when optimising slow code in your research pipelines.</p>"
 -
-  title: Keypoint workshop
+  title: Using KeyPoint for Sensitive Data
   themes: []
   id: 2017
-  speakers: []
+  speakers: [228]
   subtype: Workshop
   service:
   hidden: false
   description:
 -
-  title: Data Capture and Management with REDCap
+  title: Data capture and form design using REDCap
   themes: []
   id: 2018
-  speakers: [212]
+  speakers: [212,227]
   subtype: Workshop
   service:
   hidden: false
@@ -265,34 +258,67 @@
   subtype: Workshop
   service:
   hidden: false
-  description:
+  description: "In this design methods workshop, learn about the basics of how to create participatory design methods, tools, and techniques. We will explore what considerations are important to creatively scaffold participation in collaborative research settings. The workshop will cover practical strategies to design ‘design methods’, importance of materiality and staging, as well as how reformatting outcomes can create meaningful value."
 -
-  title: GenAI lab workshop
+  title: A gentle introduction to stable diffusion and generative text-to-image models
   themes: []
   id: 2020
   speakers: [103]
   subtype: Workshop
   service:
   hidden: false
-  description: This workshop is based on the 'Unboxing GenAI explainer' series, in which we learn about how image diffusion models like DALL-E and Stable Diffusion work. This is an interactive, hands on session, where we all work through a Jupyter notebook together to step through the various components in a large, modern GenAI system. Basic familiarity with python and/or Jupyter would be a pre-requirement.
+  description: "<p>In this hands-on workshop, participants will learn more than they ever wanted to know about how generative text-to-image models work. Come and look 'under-the-hood' of DALL-E, MidJourney, Stable Diffusion, and other similar systems as you work through a series of interactive python Jupyter notebooks to deconstruct then re-construct a diffusion model from scratch. By the end of the workshop, you will understand the components that go into making a contemporary GenAI image generator, be equipped to critique and study these socio-technical systems, and will hopefully have had some fun interrogating and interacting with all of the technological 'ingredients' along the way.</p>
+  <p>Some familiarity with python and/or Jupyter notebook is recommended for participants. Participants are strongly encouraged to bring their own laptop to work through the activities on the day. Optionally, participants can get started with the notebooks early by browsing to <a href='https://research.qut.edu.au/genailab/projects/unboxing-genai/#:~:text=A%20Gentle%20Introduction%20to%20Stable%20Diffusion'>this page</a>, under the heading 'A Gentle Introduction to Stable Diffusion'.</p>"
 -
-  title: Text analytics with R and LADAL
+  title: "Text Analytics part 1: Introduction to R for Text Analysis"
   themes: []
-  id: 2021
+  id: 20211
   speakers: [202,220]
   subtype: Workshop
   service:
   hidden: false
-  description: 
+  description: "<p>Are you looking to improve your text analysis skills using R? This introductory session will focus on setting up efficient workflows for analysing language data in R and RStudio. The workshop is ideal for participants with basic R skills who want to explore how R can be applied to text analysis. In this hands-on session, you will learn:</p>
+<ul>
+<li>How to properly configure R and RStudio for text analysis projects</li>
+<li>Techniques for loading, cleaning, and processing language data in R</li>
+<li>How to generate concordances (keyword-in-context displays) to better understand word usage in context</li>
+<li>Methods for extracting collocations and identifying keywords in your dataset</li>
+</ul>
+<p>This session will focus on best practices and optimal workflows, helping you work more efficiently and accurately when processing language data. Whether you're a linguist, social scientist, or researcher in the humanities, this workshop will give you the skills to get the most out of your data analysis in R.</p>"
 -
-  title: AARNET workshop
+  title: "Text Analytics part 2: Interactive Text Analysis with LADAL Tools"
+  themes: []
+  id: 20212
+  speakers: [202,220]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "<p>Not familiar with R but still want to dive into text analysis? In this second part of the workshop, we’ll introduce LADAL Tools, a suite of interactive notebooks designed to make text analysis accessible to researchers of all levels, allowing you to perform complex analyses without needing to code. During this session, we will:</p>
+<ul>
+<li>Demonstrate how to upload and clean your own language data using LADAL Tools</li>
+<li>Guide you through concordancing and keyword extraction to better understand patterns in your text</li>
+<li>Showcase advanced text analysis techniques such as topic modelling and network analysis</li>
+<li>Provide hands-on examples and real-time demonstrations to ensure you can follow along, even without coding experience</li>
+</ul>
+<p>Whether you’re a linguist, researcher, or academic from the humanities, social sciences, or related fields, this session will equip you with practical tools to enhance your text analysis without the steep learning curve of programming. You'll leave the workshop ready to apply LADAL’s easy-to-use tools to your own research data. For more information on LADAL Tools, visit the <a href='www.ladal.edu.au'>LADAL website</a>.</p>"
+-
+  title: "Network Know-how: A Practical Workshop on Digital Research Infrastructure"
   themes: []
   id: 2022
   speakers: [221]
   subtype: Workshop
   service:
   hidden: false
-  description: 
+  description: "<p>Do networks and data feel like a foreign language? We’re here to help. In this hands-on workshop, we’ll break down the jargon and explore key topics like network basics, data movement, and tools to streamline your research.</p>
+<p>Join us for a fun exploration of the digital world where you’ll learn how to master the art of network tech, manage active research data, and transfer even the largest files with ease. By the end of this workshop, you’ll walk away with practical skills and the confidence to tackle complex internet and data challenges like a pro:</p>
+<ul>
+<li>Understand different internet connections in Australia and how to make the most of them.</li>
+<li>Learn key network terms and concepts.</li>
+<li>Run tests to check and improve your connection.</li>
+<li>Calculate data transfer times and move large files efficiently.</li>
+<li>Troubleshoot network challenges and find the best tools for data movement.</li>
+</ul>
+<p>Boost your research toolkit and navigate networks with confidence!</p>"
 -
   title: Introduction to geospatial data with R
   themes: []
@@ -301,12 +327,13 @@
   subtype: Workshop
   service:
   hidden: false
-  description: In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.
+  description: "<p>In this Data Carpentry workshop, learn how to import, work with, and plot vector and raster-format spatial data in R. The workshop also touches on spatial metadata (extent and coordinate reference systems), reprojecting spatial data, and working with raster time series data.</p>
+  <p>This workshop expects attendees to have used R, dplyr and ggplot2 before.</p>"
 -
   title: Analysing Categorical Outcomes and Logistic Regression
   themes: []
   id: 2024
-  speakers: [216,224]
+  speakers: [216,231]
   subtype: Workshop
   service:
   hidden: false
@@ -319,7 +346,15 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "This workhsop will cover:<br>- Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)<br>- What is impact reporting? - 2 case studies<br>- How to communicate and visualise impact - mistakes and lessons learned<br>- Q & A panel with RIDL data analysts and data scientists<br>- How to make your data matter"
+  description: "<p>This workhsop will cover:</p>
+  <ul>
+  <li>Introduction to the Relational Insights Data Lab (RIDL) and the Griffith Data Trust (GDT)</li>
+  <li>What is impact reporting?</li>
+  <li>2 case studies</li>
+  <li>How to communicate and visualise impact - mistakes and lessons learned</li>
+  <li>Q & A panel with RIDL data analysts and data scientists</li>
+  <li>How to make your data matter</li>
+  </ul>"
 -
   title: "R Shiny essentials: from data to interactive dashboards"
   themes: []
@@ -329,4 +364,13 @@
   service:
   hidden: false
   description: "R Shiny is a popular R package that allows you to transform complex analytics into powerful, user-friendly interactive visualisation tools.<br>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations.<br>We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny."
+-
+  title: "Postgraduation: A career in software engineering"
+  themes: []
+  id: 2027
+  speakers: [228]
+  subtype: Talk
+  service:
+  hidden: false
+  description: 
 -

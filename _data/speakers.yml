@@ -1,6 +1,6 @@
 -
   id: 101
-  name: Dr John
+  name: John
   surname: Mahoney
   pronouns:
   company: ACU
@@ -31,9 +31,9 @@
   name: Dr Aaron
   surname: Snoswell
   pronouns: 
-  company: ADM+S Center (QUT)
-  title: Research Fellow
-  bio: I am a computer scientist and research fellow in AI accountability at the ADM+S Center, based at QUT in Brisbane, Australia. My PhD "Modelling and explaining behaviour with Inverse Reinforcement Learning" was awarded in 2022 from The University of Queensland, and developed new theory and algorithms for Inverse Reinforcement Learning in the maximum conditional entropy and multiple intent settings.<br>My ongoing research is in the development of socio-technical interventions for reducing toxicity in the foundation model machine learning paradigm, looking in particular at the ways sexism and misogyny manifest in large language models. Prior to academia, I worked in industry as a cross-disciplinary mechatronic engineer in doing medical device research and development, pilot and astronaut training, robotics, and software engineering.
+  company: Generative AI Lab (QUT)
+  title: Senior Research Fellow
+  bio: "Dr Aaron Snoswell is a computer scientist and senior research fellow in AI accountability at the QUT Generative AI Lab. Aaron’s research uses computational and socio-technical approaches to investigate the cultural and social impacts of Generative AI. Past and ongoing projects include the development of measurement and mitigation frameworks for toxicity in Large Language Models (LLMs); co-designing appropriate industry and policy responses to Generative AI’s rapid integration across society; using Explainable AI methodologies and moral philosophy frameworks to understand how logical and moral reasoning processes work (or don’t) in Generative AI language agents; and studying the socio and cultural well-being implications of companion chat-bots and “virtual influencers”."
   thumbnailUrl: aaron_snoswell.jpg
   rockstar: true
   ribbon:
@@ -132,7 +132,7 @@
   company: QCIF
   title: Senior Data Scientist 
   bio: Jenna is a Conservation Scientist with expertise in ecological modelling, species distribution, and biodiversity data analysis to support policy and conservation efforts. As the Senior Data Scientist at QCIF for EcoCommons, she oversees the development of the collaborative platform that enables researchers to build, share, and apply advanced ecological models.
-  thumbnailUrl: 
+  thumbnailUrl: jenna_wraith.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -314,7 +314,7 @@
   company: UQ
   title: Honorary Associate Professor
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: tony_howes.jpg
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
@@ -404,3 +404,87 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: https://www.linkedin.com/in/rhetta-chappell-473b2267/
+-
+  id: 226
+  name: Heather
+  surname: Monro-Allison
+  pronouns: 
+  company: Griffith University
+  title: Librarian
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/heather-monro-allison-b2949553
+-
+  id: 227
+  name: Mark
+  surname: Hoffman
+  pronouns: 
+  company: QCIF
+  title: Senior Health Informatician
+  bio: 
+  thumbnailUrl: mark_hoffman.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/mark-hoffmann
+-
+  id: 228
+  name: Peter
+  surname: Marendy
+  pronouns: 
+  company: QCIF
+  title: Head of Data Services
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/peter-marendy
+-
+  id: 229
+  name: Abhimanyu (Raj)
+  surname: Singh
+  pronouns: 
+  company: QCIF
+  title: Data Ecologist
+  bio: 
+  thumbnailUrl: abhimanyu_raj_singh.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/abhimanyu-(raj)-singh
+-
+  id: 230
+  name: Xiang
+  surname: Zhao
+  pronouns: 
+  company: QCIF
+  title: Software Developer and R Specialist
+  bio: 
+  thumbnailUrl: xiang_zhao.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.linkedin.com/in/xiang-zhao-4ba08113a
+-
+  id: 231
+  name: Dr Andrew
+  surname: Jones
+  pronouns: 
+  company: QCIF
+  title: Senior Biostatistician
+  bio: 
+  thumbnailUrl: andrew_jones.webp
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://www.qcif.edu.au/qcif-people/dr-andrew-jones
