@@ -206,7 +206,7 @@ footerBlocks:
  -    
   title: "Silver Sponsor"
   links:
-   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/SpringNLogo.pdf"}
+   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svgf"}
  -  
   title: "Collaborating Institutes"
   links:
