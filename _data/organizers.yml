@@ -6,18 +6,18 @@
 -
   group: "Silver Sponsors"
   elements: 
-    - {name: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
+    - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
 -
   group: "Main organisers"
   elements: 
-   - {name: "QCIF",  link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
-   - {name: "ACU",  link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"} 
+   - {description: "QCIF",  link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
+   - {description: "ACU",  link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"} 
 -
   group: "Co-organisers"
   elements: 
-   - {name: "The University of Queensland", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-   - {name: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-   - {name: "Griffith University", link: "griffith.edu.au",  imageUrl: "../img/organizers/GU.gif"}
-   - {name: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-   - {name: "UniSC", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {description: "The University of Queensland", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {description: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
+   - {description: "Griffith University", link: "griffith.edu.au",  imageUrl: "../img/organizers/GU.gif"}
+   - {description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+   - {description: "UniSC", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
 -
