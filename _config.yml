@@ -53,8 +53,8 @@ navigationLinks:
  #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/dietaries/", text: "Facilities"}
- - {permalink: "/partners/", text: "Partners & Sponsors"}
- - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Follow us for updates"}
+ - {permalink: "/partners/", text: "Sponsors"}
+ - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
    # bottomNavigationLinks:
   # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
