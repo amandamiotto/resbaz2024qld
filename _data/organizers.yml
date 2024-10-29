@@ -1,8 +1,8 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
-    - {name: "Taylor & Francis", link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
+    - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
 -
   group: "Silver Sponsors"
   elements: 
