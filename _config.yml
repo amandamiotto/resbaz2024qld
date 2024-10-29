@@ -52,6 +52,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
+ - {permalink: "/dietaries/", text: "Facilities"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
