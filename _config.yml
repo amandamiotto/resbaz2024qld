@@ -47,10 +47,10 @@ navigationLinks:
  - {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
- - {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
+ #- {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+ #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/dietaries/", text: "Facilities"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
@@ -202,11 +202,12 @@ footerBlocks:
   title: "Gold Sponsors"
   links:
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
-#  title: "Silver Sponsor"
-#  links:
-#   #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
-# -  
+  title: "Silver Sponsor"
+  links:
+   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/SpringNLogo.pdf"}
+ -  
   title: "Collaborating Institutes"
   links:
    - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
