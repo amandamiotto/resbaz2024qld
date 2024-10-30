@@ -6,14 +6,14 @@
   hidden: true
   description: null  
 -
-  title: Registration
+  title: Registration - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 001
   speakers: 
   hidden: true
-  description: null  
+  description:   
 -
-  title: Morning tea
+  title: Morning tea - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 002 
   speakers: 
@@ -21,7 +21,7 @@
   hidden: true
   description: null
 -
-  title: Afternoon tea
+  title: Afternoon tea - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 003
   speakers:
@@ -30,7 +30,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls
+  title: Lunch and Stalls - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 004
   speakers:
@@ -150,7 +150,7 @@
   hidden: false
   description: The workshop will cover the use of LLM to process data qualitatively as well as perform extractive reasoning on the data. LLM Summarisation of data and outputs is also discussed. The objective of the workshop is to demonstrate the usefulness of LLM to accelerate research outputs and discovery when working with research data. We will discuss the benefits and limitations as well as the considerations that need to be made with data and data processing. There will be a practical demonstration of the processing of some data drawn from various sources such as Reddit, YouTube and NewsTalk. 
 -
-  title: Demystifying AI for Research  
+  title: Demystifying AI for Research (Booked out) 
   themes: []
   id: 2008
   speakers: [206]
@@ -359,7 +359,7 @@
   title: "R Shiny essentials: from data to interactive dashboards"
   themes: []
   id: 2026
-  speakers: [216,217]
+  speakers: [216]
   subtype: Workshop
   service:
   hidden: false
