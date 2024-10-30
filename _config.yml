@@ -47,13 +47,14 @@ navigationLinks:
  - {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
- - {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
+ #- {link: "https://forms.gle/MQAHpunT1aCn7ueRA", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+ #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
- - {permalink: "/partners/", text: "Partners & Sponsors"}
- - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Follow us for updates"}
+ - {permalink: "/dietaries/", text: "Facilities"}
+ - {permalink: "/partners/", text: "Sponsors"}
+ - {link: "https://www.linkedin.com/showcase/resbaz-qld", text: "Updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
    # bottomNavigationLinks:
   # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
@@ -75,7 +76,7 @@ aboutText: "<p>ResBaz is more than a conference - it's a two-day festival of dig
 <p>In 2024, ResBazQld is now in its eighth year!
 In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>.
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
 <p>ACU, Brisbane campus is set in beautiful surrounds and is just 12 km north of the city centre. There is free parking and <a href='https://www.acu.edu.au/locations/brisbane'>public transport opportunities</a>.</p>"
 
@@ -201,11 +202,12 @@ footerBlocks:
   title: "Gold Sponsors"
   links:
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
  -    
-#  title: "Silver Sponsor"
-#  links:
-#   #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
-# -  
+  title: "Silver Sponsor"
+  links:
+   - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svgf"}
+ -  
   title: "Collaborating Institutes"
   links:
    - {text: "ACU", description: "ACU", link: "https://www.acu.edu.au/", imageUrl: "../img/organizers/acu_logo_purple.svg"}
