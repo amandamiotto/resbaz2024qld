@@ -244,12 +244,21 @@
 -
   title: Data capture and form design using REDCap
   themes: []
-  id: 2018
+  id: 20181
   speakers: [212,227]
   subtype: Workshop
   service:
   hidden: false
-  description:
+  description: "This workshop will guide participants through the stages of the data capture process, from establishing the requirement, through field selection, form logic, and deployment. Participants will have an opportunity to follow along practical exercises to cement their understanding of the theory presented, using REDCap as an exemplary tool. Participant log-in details for the REDCap training environment will be provided on the day."
+-
+  title: Data analysis and form design using REDCap
+  themes: []
+  id: 20182
+  speakers: [212,227]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop continues from the earlier data capture session, to evaluate the consequences of form design and field selection on data formats, consistency and ease of analysis. Participants will have an opportunity to follow along practical exercises to cement their understanding of the theory presented, using REDCap as an exemplary tool. Participant log-in details for the REDCap training environment will be provided on the day."
 -
   title: How to design 'design methods' to support participation in research
   themes: []
