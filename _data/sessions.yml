@@ -6,14 +6,14 @@
   hidden: true
   description: null  
 -
-  title: Registration
+  title: Registration - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 001
   speakers: 
   hidden: true
-  description: Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.  
+  description:   
 -
-  title: Morning tea
+  title: Morning tea - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 002 
   speakers: 
@@ -21,7 +21,7 @@
   hidden: true
   description: null
 -
-  title: Afternoon tea
+  title: Afternoon tea - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 003
   speakers:
@@ -30,7 +30,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls
+  title: Lunch and Stalls - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
   themes: []
   id: 004
   speakers:
