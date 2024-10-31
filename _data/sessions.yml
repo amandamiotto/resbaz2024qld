@@ -88,7 +88,7 @@
   hidden: false
   description: null
 -
-  title: Key Story
+  title: Key Story - Artificial Intelligence and the Future of Our Skills
   themes: []
   id: 106
   speakers: [106]
@@ -207,7 +207,7 @@
   title: Statistical Comparisons in R
   themes: []
   id: 2014
-  speakers: [216,215,224]
+  speakers: [215,224,216]
   subtype: Workshop
   service:
   hidden: false
@@ -216,7 +216,7 @@
   title: "Introduction to programming: Plotting and Programming with Python"
   themes: []
   id: 2015
-  speakers: [217,218,223]
+  speakers: [218,217,223]
   subtype: Workshop
   service:
   hidden: false
@@ -240,16 +240,25 @@
   subtype: Workshop
   service:
   hidden: false
-  description:
+  description: "<p>Sensitive data is increasingly common in research, including in fields as disparate as population health, biosecurity, food-security and agriculture, environmental science and biodiversity, defence, humanities, Indigenous studies, and social science. All involve the production, use, analysis, and management of sensitive data. To unlock the full potential of data sets in such sectors, researchers need secure and trusted digital environments allowing them to hold sensitive data they produce or receive from third parties (e.g., government and industry) and/or collaborate at scale on sensitive data whilst always ensuring the security of that data.</p><p>QCIF, in conjunction with ARDC and The University of Queensland, has developed a purpose-built trusted research environment named KeyPoint.</p><p>This session will explore the governance model of KeyPoint, how we ensure strict project separation at the desktop, and finishes with a live demonstration of the platform.</p>"
 -
   title: Data capture and form design using REDCap
   themes: []
-  id: 2018
+  id: 20181
   speakers: [212,227]
   subtype: Workshop
   service:
   hidden: false
-  description:
+  description: "This workshop will guide participants through the stages of the data capture process, from establishing the requirement, through field selection, form logic, and deployment. Participants will have an opportunity to follow along practical exercises to cement their understanding of the theory presented, using REDCap as an exemplary tool. Participant log-in details for the REDCap training environment will be provided on the day."
+-
+  title: Data analysis and form design using REDCap
+  themes: []
+  id: 20182
+  speakers: [212,227]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: "This workshop continues from the earlier data capture session, to evaluate the consequences of form design and field selection on data formats, consistency and ease of analysis. Participants will have an opportunity to follow along practical exercises to cement their understanding of the theory presented, using REDCap as an exemplary tool. Participant log-in details for the REDCap training environment will be provided on the day."
 -
   title: How to design 'design methods' to support participation in research
   themes: []
@@ -333,7 +342,7 @@
   title: Analysing Categorical Outcomes and Logistic Regression
   themes: []
   id: 2024
-  speakers: [216,231]
+  speakers: [231,216]
   subtype: Workshop
   service:
   hidden: false
@@ -365,12 +374,26 @@
   hidden: false
   description: "R Shiny is a popular R package that allows you to transform complex analytics into powerful, user-friendly interactive visualisation tools.<br>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations.<br>We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny."
 -
-  title: "Postgraduation: A career in software engineering"
+  title: "BoF: Charting a path towards a sustainable community of people who work on Research Software"
   themes: []
   id: 2027
   speakers: [228]
-  subtype: Talk
+  subtype: Workshop
   service:
   hidden: false
-  description: 
+  description: "<p>Please join us to raise awareness across Queensland of the community of people who work on Research Software, the Research Software Engineer Australia New Zealand (RSE-AUNZ) community, and to understand the needs of the community.</p>
+  <p>This BoF would be of interest to people who:</p>
+  <ul>
+  <li>Develop research software and are worried about career progression,</li>
+  <li>Want to make the research software more visible,</li>
+  <li>Streamline and scale research workflows but feel undervalued,</li>
+  <li>Balance researcher needs with good software practices, and</li>
+  <li>Make research software easier to use.</li>
+  </ul>
+  <p>It would also be useful to those who manage RSEs or who struggle to recruit or maintain RSEs within their project lifecycles, and those who would like to help sustain this community.</p>
+  <p>Objectives would be to solicit feedback and discussion about the following topics :</p>
+  <ul>
+  <li>What are the needs of the community and is the RSE-AUNZ meeting those needs?</li>
+  <li>What can we do to get more active community participation? Eg. proactively sharing knowledge, joining the steering committee, or asking for help?</li>
+  <li>How can we ensure greater equity and inclusion within the RSE-AUNZ community to better support and represent all members?</li></ul>"
 -
