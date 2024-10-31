@@ -437,15 +437,15 @@
   name: Peter
   surname: Marendy
   pronouns: 
-  company: QCIF
+  company: Queensland Cyber Infrastructure Foundation (QCIF), RSE-AUNZ
   title: Head of Data Services
-  bio: 
+  bio: "<p>Peter is currently employed as Head of Data and Software Solutions at the Queensland Cyber Infrastructure Foundation (QCIF), which provides eResearch infrastructure and services for Queensland research institutions and contributes to the National Research Infrastructure.</p><p>In this role, Peter is responsible for leading a team that delivers innovative, high quality, and time driven results for a wide variety of research programs from within universities, research institutes, and commercial companies. The team has expertise in workflows, specialised computing, data capture and management, and working with sensitive data.</p><p>Prior to his role with QCIF, Peter led the Microsystems research within CSIRO’s Cybernetics research Group. During his time at CSIRO, Peter also led projects such as Bees with Backpacks, Optimising Pollination, Smart Hives, Probing Biosystems – Implantables, Brain Implants, and Smart Helmets for optimising the timing of Cranioplasty.</p><p>Peter is also a member of the RSE-AUNZ steering committee which aims to build awareness of the diverse Research Software Engineer (RSE) roles, to connect volunteers in the RSE domain, and to help build practical solutions for the RSE Community.</p><p>Peter brings his experience in team/capability management, project management, and customer focused collaboration and relationships. A people focused leader with broad knowledge across multiple domains with a focus on cutting edge development and applications. An excellent technology communicator to the public, academia, government, grant bodies, and industrial stakeholders.</p><p>He also has more than 20 years of software engineering experience across multiple domains, including Digital Agriculture, Energy, Food and Nutritional Sciences, Health, Marine Sensing, Robotics, and Visual Analytics, in research and innovation environments.</p>"
   thumbnailUrl: 
   rockstar: false
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
-  social: https://www.qcif.edu.au/qcif-people/peter-marendy
+  social: https://www.linkedin.com/in/peter-marendy-64b4591/
 -
   id: 229
   name: Abhimanyu (Raj)
