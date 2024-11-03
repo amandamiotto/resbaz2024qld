@@ -6,14 +6,14 @@
   hidden: true
   description: null  
 -
-  title: Registration - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
+  title: Registration - Building 216, Level 1 (ground floor), Room 18
   themes: []
   id: 001
   speakers: 
   hidden: true
   description:   
 -
-  title: Morning tea - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
+  title: Morning tea - Building 216, Level 1 (ground floor), Room 18
   themes: []
   id: 002 
   speakers: 
@@ -21,7 +21,7 @@
   hidden: true
   description: null
 -
-  title: Afternoon tea - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
+  title: Afternoon tea - Building 216, Level 1 (ground floor), Room 18
   themes: []
   id: 003
   speakers:
@@ -30,7 +30,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls - Building 216, Level 1 (ground floor), Room 18 - Enter through the Library.
+  title: Lunch and Stalls - Building 216, Level 1 (ground floor), Room 18
   themes: []
   id: 004
   speakers:
@@ -57,7 +57,7 @@
   description: null
 -
   title: Key Story
-  themes: []
+  themes: [Navigating the future: The Synergy of Soft Skills, Digital Literacy and Career Evolution]
   id: 102
   speakers: [102]
   subtype: talk
